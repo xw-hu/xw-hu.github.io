@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/zhijianglab
 venue: "Zhejiang Lab"
-date: 2023-06
+date: 2023-06-02
 location: "Hangzhou, China"
 ---
 

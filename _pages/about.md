@@ -26,6 +26,6 @@ News
 ======
 [07/2023] One paper accepted to ICCV 2023 (Congrats to Yang Han and Tianyu) <br>
 [02/2023] Four papers accepted to CVPR 2023 (Congrats to Jiaqi, Yurui, Shi Min, and Tianyu) <br>
-[08/2022] Winner at ECCV-MIPI 2022 Challenge on Under-display Camera Image Restoration (Congrats to Yurui) [certificate] <br>
+[08/2022] Winner at ECCV-MIPI 2022 Challenge on Under-display Camera Image Restoration (Congrats to Yurui) <br>
 [06/2022] One paper accepted to PAMI (Congrats to Tianyu) <br>
 [12/2021] Achieved Excellence in the Hong Kong Young Scientist Award <br>

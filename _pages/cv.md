@@ -12,9 +12,11 @@ redirect_from:
 Education
 ======
 * B.Eng. in Computer Science and Technology, South China University of Technology, 2016
+  * Awardee of the Hong Kong Ph.D. Fellowship Scheme (HKPFS)
 * Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2020
+  * GPA: 3.95/4.0 (rank first in All-English-Teaching Union Class)
 
-Work experience
+Work Experience
 ======
 * 2022-present: Research Scientist
   * Shanghai Artificial Intelligence Laboratory
@@ -40,13 +42,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Services
 ======
 <ul>{% for post in site.services %}
     {% include archive-single-cv.html %}

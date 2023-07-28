@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaowei Hu / Research Scientist"
 title_separator          : "-"
 name                     : &name "Xiaowei Hu"
-description              : &description "Research Scientist at Shanghai AI Laboratory, 37F, 701 Yunjin Road, Xuhui District"
+description              : &description "Research Scientist at Shanghai AI Laboratory, 37F, 701 Yunjin Road, Xuhui District, Shanghai, China"
 url                      : https://xw-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xw-hu.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Xiaowei Hu / 胡枭玮"
   avatar           : "xiaowei.jpg"
   bio              : "Research Scientist at Shanghai Artificial Intelligence Laboratory"
-  location         : "Shanghai, China"
+  location         : 
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tUb4J0kAAAAJ&hl=en"

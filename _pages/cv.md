@@ -22,14 +22,11 @@ Work experience
 * 2020-2022: Postdoctoral Fellow
   * The Chinese University of Hong Kong
   
-Skills
+Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  <ul>{% for post in site.honors %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======

@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science and Technology, South China University of Technology, 2016
+* Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2020
   * Awardee of the Hong Kong Ph.D. Fellowship Scheme (HKPFS)
     
-* Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2020
+* B.Eng. in Computer Science and Technology, South China University of Technology, 2016
   * GPA: 3.95/4.0 (rank first in All-English-Teaching Union Class)
 
 Work Experience

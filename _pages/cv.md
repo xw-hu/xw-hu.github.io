@@ -28,23 +28,23 @@ Work Experience
 Honors and Awards
 ======
   <ul>{% for post in site.honors %}
-    {% include archive-single-cv.html %}
+    {% include honors.html %}
   {% endfor %}</ul>
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include publications.html %}
   {% endfor %}</ul>
   
 Talks
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include talks.html %}
   {% endfor %}</ul>
   
 Services
 ======
 <ul>{% for post in site.services %}
-    {% include archive-single-cv.html %}
+    {% include services.html %}
   {% endfor %}</ul>

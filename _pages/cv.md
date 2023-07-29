@@ -27,24 +27,16 @@ Work Experience
   
 Honors and Awards
 ======
-  <ul>{% for post in site.honors %}
-    {% include honors.html %}
-  {% endfor %}</ul>
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include publications.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include talks.html %}
-  {% endfor %}</ul>
+
   
 Services
 ======
-<ul>{% for post in site.services %}
-    {% include services.html %}
-  {% endfor %}</ul>
+

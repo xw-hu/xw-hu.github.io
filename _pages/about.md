@@ -22,8 +22,9 @@ I obtained my Ph.D. degree in <a href="http://www.cse.cuhk.edu.hk/">Department o
 
 
 
-News [details here](https://xw-hu.github.io/publications/)
+News 
 ======
+[[details here](https://xw-hu.github.io/publications/)]
 [07/2023] One paper accepted to ICCV 2023 (Congrats to Yang Han and Tianyu) <br>
 [02/2023] Four papers accepted to CVPR 2023 (Congrats to Jiaqi, Yurui, Shi Min, and Tianyu) <br>
 [08/2022] Winner at ECCV-MIPI 2022 Challenge on Under-display Camera Image Restoration (Congrats to Yurui) <br>

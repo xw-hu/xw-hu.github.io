@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Maps"
+title: "Visitor Map"
 permalink: /sitemap/
 author_profile: true
 ---

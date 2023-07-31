@@ -31,12 +31,14 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
+      <!-- Add the primary email address -->
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 
+      <!-- Add the backup email address -->
       {% if author.email_bak %}
-         <li><a href="mailto:{{ author.email_bak }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label_bak | default: "Backup Email" }} </a></li>
+        <li><a href="mailto:{{ author.email_bak }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label_bak | default: "Backup Email" }}</a></li>
       {% endif %}
 
       {% if author.keybase %}

@@ -17,10 +17,16 @@ I obtained my Ph.D. degree in <a href="http://www.cse.cuhk.edu.hk/">Department o
 	<a href="http://www.scut.edu.cn/new/">South China University of Technology (SCUT)</a> in 2016.
 
 
-My research interests span computer vision, low-level vision, vision perception, medical AI, and deep learning. Specifically:
-(a) Concentrating on designing learning algorithms for image and video restoration under challenging weather and lighting conditions.
-(b) Specializing in developing intelligent perception methods capable of continuous operation, adapting to varying environments and diverse lighting scenarios.
-(c) Committing to advancing next-generation computer vision models capable of efficiently handling multiple tasks to better understand and create the visual world.
+My research interests span computer vision, low-level vision, vision perception, medical AI, and deep learning. Specifically, my research focuses on:
+(a) Designing learning algorithms tailored for image and video restoration under challenging weather and lighting conditions.
+(b) Specializing in the development of intelligent perception methods capable of continuous operation, with the adaptability to varying environments and diverse lighting scenarios.
+(c) Advancing the development of next-generation computer vision models, efficiently handling multiple tasks, and contributing to a deeper understanding of and an enhanced ability to create the visual world.
+
+
+
+
+
+
 
 
 News 

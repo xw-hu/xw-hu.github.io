@@ -26,8 +26,8 @@ My research interests span computer vision, low-level vision, vision perception,
 
 News 
 ====== 
-[10/2023] 入选“国家高层次青年人才” <br>
-[10/2023] 入选“美国斯坦福大学2023年度全球前2%顶尖科学家榜单” <br>
+[10/2023] 入选“国家高层次青年人才” (National High-level Young Talents Program of China) <br>
+[10/2023] 入选“美国斯坦福大学全球前2%顶尖科学家榜单” (World's Top 2% Scientists by Stanford University) <br>
 [07/2023] One paper accepted to ICCV 2023 (Congrats to Yang Han and Tianyu) <br>
 [02/2023] Four papers accepted to CVPR 2023 (Congrats to Jiaqi, Yurui, Shi Min, and Tianyu) <br>
 [08/2022] Winner at ECCV-MIPI 2022 Challenge on Under-display Camera Image Restoration (Congrats to Yurui) <br>

@@ -26,7 +26,7 @@ My research interests span computer vision, low-level vision, vision perception,
 
 News 
 ====== 
-[09/2024] <a href="https://github.com/xw-hu/xw-hu.github.io/blob/master/_pages/Top_2%25_Scientist_2024.png?raw=true">World's Top 2% Scientists by Stanford University</a> <br>
+[09/2024] <a href="https://topresearcherslist.com/Home/Profile/845511">World's Top 2% Scientists by Stanford University</a> <br>
 [09/2024] One paper accepted to TIP (Congrats to Zhenghao) <br>
 [09/2024] Our survey paper "**Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning**" is publicly avaliable [<a href="https://xw-hu.github.io/publications/">link</a>] [<a href="https://blog.csdn.net/moxibingdao/article/details/141980315">report</a>] <br>
 [07/2024] One paper accepted to ECCV 2024 (Congrats to Jiaqi) <br>

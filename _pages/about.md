@@ -31,7 +31,7 @@ News
 [09/2024] Our survey paper "*Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning*" is publicly avaliable [<a href="https://xw-hu.github.io/publications/">link</a>] [<a href="https://blog.csdn.net/moxibingdao/article/details/141980315">report</a>] <br>
 [07/2024] One paper accepted to ECCV 2024 (Congrats to Jiaqi) <br>
 [12/2023] 河北广播电视台、河北科学技术馆联合报道：<a href="https://web.cmc.hebtv.com/cms/rmt0336_html/0/0rmhlm/qy/kjpd/xy/11335045.shtml?share=true">河北往届竞赛选手追踪 | 胡枭玮：科学研究·兴趣是最好的老师</a> <br>
-[10/2023] 入选“国家高层次海外人才计划青年项目” (Outstanding Young Talents Program (Overseas) of China) <br>
+[10/2023] 入选“国家高层次人才计划青年项目” (Outstanding Young Talents Program of China) <br>
 [10/2023] World's Top 2% Scientists by Stanford University <br>
 [07/2023] One paper accepted to ICCV 2023 (Congrats to Yang Han and Tianyu) <br>
 [02/2023] Four papers accepted to CVPR 2023 (Congrats to Jiaqi, Yurui, Shi Min, and Tianyu) <br>

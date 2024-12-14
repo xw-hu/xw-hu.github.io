@@ -25,6 +25,7 @@ My research interests include computer vision, low-level vision, visual percepti
 
 News 
 ====== 
+[12/2024] One paper accepted to TPAMI (Congrats to Min Shi, Weiyun, and Sitong) <br>
 [09/2024] <a href="https://topresearcherslist.com/Home/Profile/845511">World's Top 2% Scientists by Stanford University</a> <br>
 [09/2024] One paper accepted to TIP (Congrats to Zhenghao) <br>
 [09/2024] Our survey paper "*Unveiling Deep Shadows: A Survey on Image and Video Shadow Detection, Removal, and Generation in the Era of Deep Learning*" is publicly avaliable [<a href="https://xw-hu.github.io/publications/">link</a>] [<a href="https://blog.csdn.net/moxibingdao/article/details/141980315">report</a>] <br>

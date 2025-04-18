@@ -23,7 +23,7 @@ My research interests include computer vision, low-level vision, visual percepti
 (c) Creating next-generation multimodal models that handle multiple tasks efficiently, advancing understanding and shaping a visual world closely aligned with physical reality.
 
 
-I am looking for remote collaborators, please drop me an email if you are interested.
+I am looking for remote collaborators/students, please drop me an email if you are interested.
 
 
 News 

@@ -28,6 +28,7 @@ I am looking for remote collaborators/students, please drop me an email if you a
 
 News 
 ====== 
+[04/2025] Congrats to Jaiq and Donghao for your papers accepted to TCSVT and IJCAI 2025 <br>
 [02/2025] One paper accepted to CVPR 2025 (Congrats to Zhenghao) <br>
 [12/2024] One paper accepted to TPAMI (Congrats to Min Shi, Weiyun, and Sitong) <br>
 [09/2024] <a href="https://topresearcherslist.com/Home/Profile/845511">World's Top 2% Scientists by Stanford University</a> <br>

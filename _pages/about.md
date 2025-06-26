@@ -28,6 +28,7 @@ I am looking for remote collaborators/students, please drop me an email if you a
 
 News 
 ====== 
+[06/2025] One paper accepted to ICCV 2025 <br>
 [04/2025] Congrats to Jiaqi and Donghao for your papers accepted to TCSVT and IJCAI 2025 <br>
 [02/2025] One paper accepted to CVPR 2025 <br>
 [12/2024] One paper accepted to TPAMI <br>

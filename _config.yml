@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaowei Hu / Research Scientist"
+title                    : "Xiaowei Hu / Professor"
 title_separator          : "-"
 name                     : &name "Xiaowei Hu"
-description              : &description "Research Scientist at Shanghai AI Laboratory"
+description              : &description "Professor at South China University of Technology"
 url                      : https://xw-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xw-hu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaowei Hu / 胡枭玮"
   avatar           : "xiaowei.jpg"
-  bio              : "Research Scientist at Shanghai Artificial Intelligence Laboratory"
-  location         : "10F-B24, Shanghai AI Laboratory, <br> International Media Harbor L1, <br> Xuhui, Shanghai, China"
+  bio              : "Professor at South China Univeristy of Technology"
+  location         : "B1c, Guangzhou International Campus, <br> South China University of Technology, <br> Guangzhou, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tUb4J0kAAAAJ&hl=en"
-  email            :  huxiaowei@pjlab.org.cn
+  email            :  
   email_bak        :  xwhu@cse.cuhk.edu.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

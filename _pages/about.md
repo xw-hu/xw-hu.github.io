@@ -23,7 +23,15 @@ My research interests include computer vision, low-level vision, visual percepti
 (c) Creating next-generation multimodal models that handle multiple tasks efficiently, advancing understanding and shaping a visual world closely aligned with physical reality.
 
 
-I am looking for remote collaborators/students, please drop me an email if you are interested.
+
+We are looking for self-motivated Postdocs, PhD students, Master’s students, Research Assistants, and Interns who are interested in computer vision, multimodal large models, AIGC, and bioinformatics. If you are passionate about research, feel free to reach out with your CV and transcripts.
+
+If you are a student at SCUT and interested in doing research with me, please don’t hesitate to send me an email.
+
+我们正在招募对计算机视觉、多模态大模型、AIGC、生物信息学感兴趣的博士后、博士生、硕士生、科研助理和实习生。欢迎具备自我驱动能力、热爱科研的你加入我们！有意者请将简历和成绩单发送至我的邮箱。
+
+如果你是华南理工大学的学生，并有兴趣参与相关科研工作，也欢迎随时邮件联系我！
+
 
 
 News 

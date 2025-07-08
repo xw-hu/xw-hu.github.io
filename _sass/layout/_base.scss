@@ -363,10 +363,3 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
-
-.masthead__inner-wrap,
-#main,
-.breadcrumbs,
-.wrapper {
-  @include container;  // 这里确保了它们都有正确的宽度和居中效果
-}

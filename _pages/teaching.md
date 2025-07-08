@@ -1,17 +1,17 @@
 ---
 layout: single
-title: 
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-# School of Future Technology, South China University of Technology
+## School of Future Technology, South China University of Technology
 
 - **Multimodal Large Models and Intelligent Agents**  
   Undergraduate Course, Fall 2025.      
   *Course lead.*  
 
-# Guest Lectures / Tutorials
+## Guest Lectures / Tutorials
 
 - **Basic Vision Models (Object Detection)**  
   The Hong Kong University of Science and Technology, Feb. & Sep. 2022, Sep. 2023.

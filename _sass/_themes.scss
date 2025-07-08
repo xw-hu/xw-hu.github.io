@@ -7,7 +7,7 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 16px;
+$doc-font-size              : 16;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -17,7 +17,6 @@ $indent-var                 : 1.3em;
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
-
 
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -40,18 +39,16 @@ $garamond                   : Garamond, serif;
 // $type-size-7                : 0.6875em; // ~11px
 // $type-size-8                : 0.625em;  // ~10px
 /* Type scale */
+$type-size-1                : 2.053em;  // ~33.056px (小一号)
+$type-size-2                : 1.653em;  // ~26.248px (小一号)
+$type-size-3                : 1.313em;  // ~21.008px (小一号)
+$type-size-4                : 1.025em;  // ~16.5px (小一号)
+$type-size-5                : 0.875em;  // ~14px (小一号)
+$type-size-6                : 0.6875em; // ~11px (小一号)
+$type-size-7                : 0.625em;  // ~10px (小一号)
+$type-size-8                : 0.5625em; // ~9px (小一号)
 
-/* Type scale adjustments */
-$type-size-1: 2.053em;  /* ~33px */
-$type-size-2: 1.653em;  /* ~26px */
-$type-size-3: 1.313em;  /* ~21px */
-$type-size-4: 1.025em;  /* ~16.5px */
-$type-size-5: 0.875em;  /* ~14px */
-$type-size-6: 0.6875em; /* ~11px */
-$type-size-7: 0.625em;  /* ~10px */
-$type-size-8: 0.5625em; /* ~9px */
 
-/* Global and header fonts */
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
@@ -115,4 +112,3 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   

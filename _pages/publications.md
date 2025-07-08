@@ -271,7 +271,7 @@ author_profile: true
   IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), vol. 30, no. 10, pp. 3358-3371, 2020.  
   [[paper](https://ieeexplore.ieee.org/document/8836095)] [[code](https://github.com/githubBingoChen/AADF-Net)] [[results](https://drive.google.com/file/d/1tv72yWNH0ANHoSU4qMOwD7g5r53wSZEe/view)]
 
-## 2019
+### 2019
 
 - **Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data**  
   _**Xiaowei Hu**, Yitong Jiang, Chi-Wing Fu, and Pheng-Ann Heng_  
@@ -314,7 +314,7 @@ author_profile: true
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X)]
 
 
-## 2018 & Before
+### 2018 & Before
 
 - **Direction-Aware Spatial Context Features for Shadow Detection**  
   _**Xiaowei Hu**, Lei Zhu, Chi-Wing Fu, Jing Qin, and Pheng-Ann Heng_  
@@ -347,7 +347,7 @@ author_profile: true
   [[paper](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_22)] [[code](https://github.com/xw-hu/AGNet)]
 
 
-## PhD Thesis
+### PhD Thesis
 
 - **Shadow Detection and Removal with Deep Learning**  
   _**Xiaowei Hu**_  
@@ -355,7 +355,7 @@ author_profile: true
   [[thesis](https://repository.lib.cuhk.edu.hk/en/item/cuhk-2627640)]
 
 
-## Patents
+### Patents
 
 - [google link](https://patents.google.com/?inventor=%E8%83%A1%E6%9E%AD%E7%8E%AE&oq=%E8%83%A1%E6%9E%AD%E7%8E%AE)
 

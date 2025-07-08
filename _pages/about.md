@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Biography"
+title: "Xiaowei Hu / Professor"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Biography
 
 I am currently a Professor at [School of Future Technology](https://www2.scut.edu.cn/ft/), [South China University of Technology](http://www.scut.edu.cn/new/). Previously, I was a research scientist at [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I obtained my Ph.D. degree from the [Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/) in 2020, supervised by Prof. [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) and Prof. [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/). I obtained my B. Eng. degree from the [School of Computer Science and Engineering](http://www.scut.edu.cn/cs/), [South China University of Technology (SCUT)](http://www.scut.edu.cn/new/) in 2016.
 

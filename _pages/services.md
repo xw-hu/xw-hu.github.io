@@ -1,15 +1,15 @@
 ---
 layout: single
-title: "Professional Services"
+title: 
 permalink: /services/
 author_profile: true
 ---
 
-## Area Chair
+# Area Chair
 
 - Medical Image Computing and Computer Assisted Intervention (**MICCAI 2025**)        
 
-## Conference Reviews
+# Conference Reviews
 
 - IEEE Conference on Computer Vision and Pattern Recognition (**CVPR 2019–2025**)     
 - IEEE International Conference on Computer Vision (**ICCV 2019** <span style="color:#e0915c;"><b>Outstanding Reviewer</b></span> /2021/2023/2025)          
@@ -22,7 +22,7 @@ author_profile: true
 - Pacific Conference on Computer Graphics and Applications (**PG 2020/2021**)       
 - Medical Image Computing and Computer Assisted Intervention (**MICCAI 2019–2021**)       
 
-## Journal Reviews
+# Journal Reviews
 
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)     
 - International Journal of Computer Vision (**IJCV**)     

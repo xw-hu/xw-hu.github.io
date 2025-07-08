@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching
 
-### South China University of Technology (SCUT), School of Future Technology
+### South China University of Technology, School of Future Technology
 
 - **Multimodal Large Models and Intelligent Agents**  
   Undergraduate Course, 2025 Fall     

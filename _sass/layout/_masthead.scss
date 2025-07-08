@@ -10,9 +10,9 @@
   width: 100%;
 
   -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  animation-delay: 0.15s;
   z-index: 20;
 
   &::after {
@@ -30,8 +30,9 @@
     padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
 
+    // 修改这里，移除 $x-large 的限制，避免右侧空白过多
     @include breakpoint($x-large) {
-      max-width: $x-large;
+      max-width: 100%; // 取消过于限制宽度的 $x-large，使用100%的宽度
     }
 
     nav {
@@ -43,6 +44,7 @@
     }
   }
 }
+
 
 .masthead__menu {
 

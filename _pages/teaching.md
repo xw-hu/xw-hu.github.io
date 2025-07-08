@@ -9,11 +9,9 @@ author_profile: true
 
 ### South China University of Technology (SCUT), School of Future Technology
 
-- **Multimodal Large Models and Intelligent Agents / 多模态大模型与智能体**  
+- **Multimodal Large Models and Intelligent Agents**  
   Undergraduate Course, 2025 Fall     
   *Course lead.*  
-
----
 
 ### Guest Lectures / Tutorials
 

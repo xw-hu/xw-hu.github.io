@@ -1,11 +1,9 @@
 ---
 layout: single
-title: 
+title: "Area Chair"
 permalink: /services/
 author_profile: true
 ---
-
-# Area Chair
 
 - Medical Image Computing and Computer Assisted Intervention (**MICCAI 2025**)        
 

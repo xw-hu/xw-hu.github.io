@@ -369,10 +369,10 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
    ========================================================================== */
 
 .container {
-  max-width: 100%;  // 让容器占满全宽
+  max-width: 1200px;  // Adjust the max-width to a larger value (e.g., 1400px)
   margin-left: auto;
   margin-right: auto;
-  padding-left: 0;
-  padding-right: 0;  // 删除左右内边距，减少留白
+  width: 100%;
 }
+
 

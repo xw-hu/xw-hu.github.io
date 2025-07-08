@@ -1,13 +1,10 @@
-/* ==========================================================================
-   NAVIGATION
+/* ========================================================================== 
+   NAVIGATION 
    ========================================================================== */
 
-/*
-   Breadcrumb navigation links
-   ========================================================================== */
-
+/* Breadcrumb navigation links */
 .breadcrumbs {
-  @include container;
+  @include container;  // 使用 container 来限制宽度
   @include clearfix;
   margin-top: 0;
   margin-bottom: 0;
@@ -25,7 +22,9 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: $x-large;  // 控制最大宽度，避免太宽
+    margin-left: auto;  // 居中
+    margin-right: auto; // 居中
   }
 
   ol {
@@ -51,10 +50,7 @@
   }
 }
 
-/*
-   Post pagination navigation links
-   ========================================================================== */
-
+/* Post pagination navigation links */
 .pagination {
   @include full();
   @include clearfix();
@@ -166,10 +162,7 @@
   border-top: 1px solid var(--global-border-color);
 }
 
-/*
-   Priority plus navigation
-   ========================================================================== */
-
+/* Priority plus navigation */
 .greedy-nav {
   position: relative;
   min-width: 250px;
@@ -247,13 +240,13 @@
         transition: $global-transition;
         -webkit-transform: scaleX(0);
             -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
+                transform: scaleX(0); /* hide */
       }
 
       &:hover:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
+                transform: scaleX(1); /* reveal */
       }
     }
   }
@@ -317,10 +310,7 @@
   }
 }
 
-/*
-   Navigation list
-   ========================================================================== */
-
+/* Navigation list */
 .nav__list {
   font-size: 1.25rem;
 
@@ -372,10 +362,7 @@
   border-bottom: 1px solid var(--global-border-color);
 }
 
-/*
-   Table of contents navigation
-   ========================================================================== */
-
+/* Table of contents navigation */
 .toc {
   font-family: $sans-serif-narrow;
   color: var(--global-text-color-light);

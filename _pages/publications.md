@@ -8,7 +8,7 @@ author_profile: true
 **Summary:** CVPR, ICCV & ECCV (16), TPAMI (3), IEEE Transactions (20).  
 <small>^ joint first authors; * corresponding author</small>
 
-### 2025
+**2025**
 
 - Demystify Transformers & Convolutions in Modern Image Deep Networks  
   _**Xiaowei Hu^**, Min Shi^, Weiyun Wang^, Sitong Wu^, Linjie Xing, Wenhai Wang, Xizhou Zhu, Lewei Lu, Jie Zhou, Xiaogang Wang, Yu Qiao, and Jifeng Dai*_  
@@ -68,7 +68,7 @@ author_profile: true
   ArXiv Tech Report, 2025  
   [[arXiv](https://arxiv.org/abs/2502.20780)]
 
-### 2024
+**2024**
 
 - Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era  
   _**Xiaowei Hu^**, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_  
@@ -111,7 +111,7 @@ author_profile: true
   [[paper](https://dl.acm.org/doi/10.1145/3597612)] [[arXiv](https://arxiv.org/abs/2206.09552)]
 
 
-### 2023
+**2023**
 
 - Instance Shadow Detection with A Single-Stage Detector  
   _Tianyu Wang, **Xiaowei Hu\***, Pheng-Ann Heng, and Chi-Wing Fu_  
@@ -163,7 +163,7 @@ author_profile: true
   IEEE Transactions on Emerging Topics in Computational Intelligence (**IEEE TETCI**), vol. 7, no. 5, pp. 1527-1538, 2023  
   [[paper](https://ieeexplore.ieee.org/document/9954228)]
 
-### 2022
+**2022**
 
 - Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection  
   _Tianyu Wang, **Xiaowei Hu***, Zhengze Liu, and Chi-Wing Fu_  
@@ -186,7 +186,7 @@ author_profile: true
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/20217/19976)] [[arXiv](https://arxiv.org/abs/2201.08657)] [[code](https://github.com/xmed-lab/EPL_SemiDG)]
 
 
-### 2021
+**2021**
 
 - Revisiting Shadow Detection: A New Benchmark Dataset for Complex World  
   _**Xiaowei Hu**, Tianyu Wang, Chi-Wing Fu, Yitong Jiang, Qiong Wang, and Pheng-Ann Heng_  
@@ -234,7 +234,7 @@ author_profile: true
   [[paper](https://www.sciencedirect.com/science/article/pii/S1361841521000359)] [[arXiv](https://arxiv.org/abs/2104.01896)]
 
 
-### 2020
+**2020**
 
 - Direction-Aware Spatial Context Features for Shadow Detection and Removal  
   _**Xiaowei Hu**, Chi-Wing Fu, Lei Zhu, Jing Qin, and Pheng-Ann Heng_  
@@ -271,7 +271,7 @@ author_profile: true
   IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), vol. 30, no. 10, pp. 3358-3371, 2020.  
   [[paper](https://ieeexplore.ieee.org/document/8836095)] [[code](https://github.com/githubBingoChen/AADF-Net)] [[results](https://drive.google.com/file/d/1tv72yWNH0ANHoSU4qMOwD7g5r53wSZEe/view)]
 
-### 2019
+**2019**
 
 - Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data  
   _**Xiaowei Hu**, Yitong Jiang, Chi-Wing Fu, and Pheng-Ann Heng_  
@@ -314,7 +314,7 @@ author_profile: true
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X)]
 
 
-### 2018 & Before
+**2018 & Before**
 
 - Direction-Aware Spatial Context Features for Shadow Detection  
   _**Xiaowei Hu**, Lei Zhu, Chi-Wing Fu, Jing Qin, and Pheng-Ann Heng_  
@@ -347,7 +347,7 @@ author_profile: true
   [[paper](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_22)] [[code](https://github.com/xw-hu/AGNet)]
 
 
-### PhD Thesis
+**PhD Thesis**
 
 - Shadow Detection and Removal with Deep Learning  
   _**Xiaowei Hu**_  
@@ -355,7 +355,7 @@ author_profile: true
   [[thesis](https://repository.lib.cuhk.edu.hk/en/item/cuhk-2627640)]
 
 
-### Patents
+**Patents**
 
 - [google link](https://patents.google.com/?inventor=%E8%83%A1%E6%9E%AD%E7%8E%AE&oq=%E8%83%A1%E6%9E%AD%E7%8E%AE)
 

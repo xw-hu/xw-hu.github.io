@@ -13,7 +13,7 @@ author_profile: true
 - **Demystify Transformers & Convolutions in Modern Image Deep Networks**  
   _**Xiaowei Hu^**, Min Shi^, Weiyun Wang^, Sitong Wu^, Linjie Xing, Wenhai Wang, Xizhou Zhu, Lewei Lu, Jie Zhou, Xiaogang Wang, Yu Qiao, and Jifeng Dai*_  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), vol. 47, no. 4, pp. 2416-2428, 2025.  
-  [paper](https://ieeexplore.ieee.org/document/10810738) [arXiv](https://arxiv.org/abs/2211.05781) [code](https://github.com/OpenGVLab/STM-Evaluation)
+  [[paper](https://ieeexplore.ieee.org/document/10810738)] [[arXiv](https://arxiv.org/abs/2211.05781)] [[code](https://github.com/OpenGVLab/STM-Evaluation)]
 
 - **EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights**  
   _Zhenghao Xing^, Hao Chen^, Binzhu Xie, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_  

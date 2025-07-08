@@ -20,7 +20,6 @@ Specifically, my research focuses on:
 - Developing intelligent perception and reasoning systems capable of continuous operation and adaptability  
 - Creating next-generation multimodal models for efficient multitask learning and robust understanding
 
----
 
 # Openings
 
@@ -36,7 +35,6 @@ If you are a student at SCUT and interested in doing research with me, please do
 
 </span>
 
----
 
 # News
 

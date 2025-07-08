@@ -5,7 +5,7 @@ permalink: /honors/
 author_profile: true
 ---
 
-# Honors and Awards
+## Honors and Awards
 
 - [**World’s Top 2% Scientists by Stanford University**](https://github.com/xw-hu/xw-hu.github.io/blob/master/_pages/Top_2%25_Scientist_2024.png?raw=true) <span style="float:right; color:gray; font-size:0.9em;">2022–2024</span>
 - **Outstanding Young Talents Program of China** <span style="float:right; color:gray; font-size:0.9em;">2023</span>
@@ -19,7 +19,7 @@ author_profile: true
 - **National Scholarship** (Highest nationwide scholarship for undergraduate students in China) <span style="float:right; color:gray; font-size:0.9em;">2013</span>
 
 
-# Press Coverage
+## Press Coverage
 
 - 小博士报： [科技竞赛人物故事｜胡枭玮：为AI打造慧眼和聪明大脑](https://mp.weixin.qq.com/s?__biz=MzA5NDM4NzQ0MQ==&mid=2650180987&idx=1&sn=e09c72dbf5f390d8b3a5ae76ccb778d7&chksm=896f3958bb5e8fd81ab02f80e1173ea72fa7db91efe2df211f5d910f0b5753025cfe9be29539&scene=27) <span style="float:right; color:gray; font-size:0.9em;">06/2025</span>
 - 河北日报： [在学生心中“撒下”科学种子](https://hbrb.hebnews.cn/pc/paper/c/202404/09/content_224902.html) <span style="float:right; color:gray; font-size:0.9em;">04/2024</span>

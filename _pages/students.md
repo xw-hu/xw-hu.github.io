@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-## Previous Mentorship
+# Previous Mentorship
 
 - [Jiaqi Xu](https://jiaqixuac.github.io/) (Jan. 2022 – Mar. 2023, Research Intern at Shanghai AI Lab, PhD Student at CUHK)
 - [Tianyu Wang](https://stevewongv.github.io/) (Jan. 2022 – Mar. 2023, Research Intern at Shanghai AI Lab, PhD Student at CUHK, now Research Scientist at Adobe Research, USA)

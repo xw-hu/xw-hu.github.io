@@ -51,10 +51,3 @@
     display: table;
   }
 }
-
-@mixin container {
-  max-width: $x-large;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-}

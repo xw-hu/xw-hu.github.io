@@ -8,12 +8,12 @@
   height: fit-content;
   top: 0;
   width: 100%;
-  z-index: 20;
 
   -webkit-animation: intro 0.3s both;
-  animation: intro 0.3s both;
+          animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
+          animation-delay: 0.15s;
+  z-index: 20;
 
   &::after {
     content: "";
@@ -36,10 +36,6 @@
 
     nav {
       z-index: 10;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      width: 100%;
     }
 
     a {
@@ -49,46 +45,23 @@
 }
 
 .masthead__menu {
+
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    width: 100%;
-  }
-
-  .masthead__menu-item {
-    background-color: var(--global-bg-color);
-    display: block;
-    list-style-type: none;
-    white-space: nowrap;
-    margin: 0.5em;
-
-    &--lg {
-      padding-right: 2em;
-      font-weight: 700;
-    }
-
-    /* Hover effect */
-    &:hover {
-      color: var(--global-link-color-hover);
-    }
   }
 }
 
-/* Responsive Design - Adjust Menu Layout on Small Screens */
-@include breakpoint($medium) {
-  .masthead__menu ul {
-    flex-direction: column;
-    align-items: flex-start;
-  }
+.masthead__menu-item {
+  background-color: var(--global-bg-color);
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
 
-  .masthead__menu-item {
-    width: 100%; /* Make menu items stack vertically on smaller screens */
-    text-align: left;
-    padding: 1em;
+  &--lg {
+    padding-right: 2em;
+    font-weight: 700;
   }
 }

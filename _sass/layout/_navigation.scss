@@ -1,10 +1,13 @@
-/* ========================================================================== 
-   NAVIGATION 
+/* ==========================================================================
+   NAVIGATION
    ========================================================================== */
 
-/* Breadcrumb navigation links */
+/*
+   Breadcrumb navigation links
+   ========================================================================== */
+
 .breadcrumbs {
-  @include container; // 使用 container 限制宽度
+  @include container;
   @include clearfix;
   margin-top: 0;
   margin-bottom: 0;
@@ -22,9 +25,7 @@
   }
 
   @include breakpoint($x-large) {
-    max-width: 1200px;  // 限制最大宽度
-    margin-left: auto;  // 居中
-    margin-right: auto; // 居中
+    max-width: $x-large;
   }
 
   ol {
@@ -50,7 +51,11 @@
   }
 }
 
-/* Post pagination navigation links */
+
+/*
+   Post pagination navigation links
+   ========================================================================== */
+
 .pagination {
   @include full();
   @include clearfix();
@@ -162,7 +167,11 @@
   border-top: 1px solid var(--global-border-color);
 }
 
-/* Priority plus navigation */
+
+/*
+   Priority plus navigation
+   ========================================================================== */
+
 .greedy-nav {
   position: relative;
   min-width: 250px;
@@ -240,13 +249,13 @@
         transition: $global-transition;
         -webkit-transform: scaleX(0);
             -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide */
+                transform: scaleX(0); /* hide*/
       }
 
       &:hover:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal */
+                transform: scaleX(1); /* reveal*/
       }
     }
   }
@@ -306,6 +315,130 @@
       &:last-child {
         border-bottom: none;
       }
+    }
+  }
+}
+
+
+/*
+   Navigation list
+   ========================================================================== */
+
+.nav__list {
+  font-size: 1.25rem;
+
+  ul {
+    margin-bottom: 1em;
+  }
+
+  a {
+    display: block;
+    padding: 0.125em 0;
+    color: inherit;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .active {
+    margin-left: -0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    color: #fff;
+    font-weight: bold;
+    background: var(--global-base-color);
+    border-radius: $border-radius;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+}
+
+.nav__title {
+  margin: 0;
+  padding: 0.5rem 1rem;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-5;
+  font-weight: bold;
+}
+
+.nav__sub-title {
+  display: block;
+  margin: 0.5rem 0;
+  padding: 0.5rem 0;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+
+/*
+   Table of contents navigation
+   ========================================================================== */
+
+.toc {
+  font-family: $sans-serif-narrow;
+  color: var(--global-text-color-light);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: #fff;
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+
+  .nav__title {
+    color: #fff;
+    font-size: $type-size-6;
+    background: var(--global-base-color);
+    border-top-left-radius: $border-radius;
+    border-top-right-radius: $border-radius;
+  }
+}
+
+.toc__menu {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style: none;
+  font-size: 0.8rem;
+
+  a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: var(--global-code-text-color);
+    font-size: $type-size-7;
+    font-weight: bold;
+    line-height: 1.5;
+    border-bottom: 1px solid var(--global-border-color);
+    text-decoration-line: none !important;
+
+    &:hover {
+      color: #000;
+      background: var(--global-link-color-hover);
+    }
+  }
+
+  > li:last-child {
+    a {
+      border-bottom: none;
+    }
+  }
+
+  li ul > li a {
+    padding-left: 2rem;
+    font-weight: normal;
+  }
+
+  /* hide sub sub links on small screens*/
+  li > ul li {
+    display: none;
+
+    @include breakpoint($medium) {
+      display: block;
     }
   }
 }

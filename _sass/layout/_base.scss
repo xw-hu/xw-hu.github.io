@@ -369,7 +369,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
    ========================================================================== */
 
 .container {
-  max-width: 1200px;  // Adjust the max-width to a larger value (e.g., 1400px)
+  max-width: 100%;  // 如果要取消最大宽度限制
   margin-left: auto;
   margin-right: auto;
   width: 100%;

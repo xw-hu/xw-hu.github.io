@@ -137,12 +137,12 @@ author_profile: true
 
 - **Matching Is Not Enough: A Two-Stage Framework for Category-Agnostic Pose Estimation**  
   Min Shi, Zihao Huang, Xianzheng Ma, **Xiaowei Hu**, and Zhiguo Cao  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 7308-7317, 2023 (**<span style="color:#e0915c;">Highlight</span>**)
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 7308-7317, 2023 (**<span style="color:#e0915c;">Highlight</span>**)           
   [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shi_Matching_Is_Not_Enough_A_Two-Stage_Framework_for_Category-Agnostic_Pose_CVPR_2023_paper.html) [code](https://github.com/flyinglynx/CapeFormer)
 
 - **InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions**  
   Wenhai Wang, Jifeng Dai, Zhe Chen, Zhenhang Huang, Zhiqi Li, Xizhou Zhu, **Xiaowei Hu**, Tong Lu, Lewei Lu, Hongsheng Li, Xiaogang Wang, and Yu Qiao  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 14408-14419, 2023 (**<span style="color:#e0915c;">Highlight</span>**)
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 14408-14419, 2023 (**<span style="color:#e0915c;">Highlight</span>**)            
   [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_InternImage_Exploring_Large-Scale_Vision_Foundation_Models_With_Deformable_Convolutions_CVPR_2023_paper.html) [arXiv](https://arxiv.org/abs/2211.05778) [code](https://github.com/OpenGVLab/InternImage) [video](https://www.youtube.com/watch?v=_LEitBd5Tfs)
 
 - **IDRNet: Intervention-Driven Relation Network for Semantic Segmentation**  
@@ -202,7 +202,7 @@ author_profile: true
 
 - **Single-Stage Instance Shadow Detection with Bidirectional Relation Learning**  
   Tianyu Wang^, **Xiaowei Hu^***, Chi-Wing Fu, and Pheng-Ann Heng  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 1-11, 2021. (**<span style="color:#e0915c;">Oral</span>**)
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 1-11, 2021. (**<span style="color:#e0915c;">Oral</span>**)             
   [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Single-Stage_Instance_Shadow_Detection_With_Bidirectional_Relation_Learning_CVPR_2021_paper.pdf) [supp.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_Single-Stage_Instance_Shadow_CVPR_2021_supplemental.pdf) [video](https://youtu.be/p0b_2SsFypw) [code](https://github.com/stevewongv/SSIS) [poster](https://xw-hu.github.io/paper_material/CVPR21_SSIS_poster.pdf)
 
 - **SAC-Net: Spatial Attenuation Context for Salient Object Detection**  
@@ -212,7 +212,7 @@ author_profile: true
 
 - **Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis**  
   Xiaomeng Li, **Xiaowei Hu**, Xiaojuan Qi, Lequan Yu, Wei Zhao, Pheng-Ann Heng, and Lei Xing  
-  IEEE Transactions on Medical Imaging (**IEEE TMI**), vol. 40, no. 9, pp. 2284-2294, 2021. (**<span style="color:#e0915c;">TMI Popular Paper</span>**)
+  IEEE Transactions on Medical Imaging (**IEEE TMI**), vol. 40, no. 9, pp. 2284-2294, 2021. (**<span style="color:#e0915c;">TMI Popular Paper</span>**)                 
   [paper](https://ieeexplore.ieee.org/document/9411868) [code](https://github.com/xmengli/Rotation-oriented-self-supervised)
 
 - **SALMNet: A Structure-Aware Lane Marking Detection Network**  
@@ -260,7 +260,7 @@ author_profile: true
 
 - **CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading**  
   Xiaomeng Li*, **Xiaowei Hu***, Lequan Yu, Lei Zhu, Chi-Wing Fu, and Pheng-Ann Heng  
-  IEEE Transactions on Medical Imaging (**IEEE TMI**), vol. 39, no. 5, pp. 1483-1493, 2020. (**<span style="color:#e0915c;">ESI Highly Cited Paper</span>**)
+  IEEE Transactions on Medical Imaging (**IEEE TMI**), vol. 39, no. 5, pp. 1483-1493, 2020. (**<span style="color:#e0915c;">ESI Highly Cited Paper</span>**)          
   [paper](https://ieeexplore.ieee.org/document/8892667) [code](https://github.com/xmengli999/CANet)
 
 - **GrabAR: Occlusion-aware Grabbing Virtual Objects in AR**  
@@ -292,7 +292,7 @@ author_profile: true
 
 - **SINet: A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection**  
   **Xiaowei Hu**, Xuemiao Xu, Yongjie Xiao, Hao Chen, Shengfeng He, Jing Qin, and Pheng-Ann Heng  
-  IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**), vol. 20, no. 3, pp. 1010-1019, 2019. (**<span style="color:#e0915c;">ESI Highly Cited Paper</span>**)
+  IEEE Transactions on Intelligent Transportation Systems (**IEEE TITS**), vol. 20, no. 3, pp. 1010-1019, 2019. (**<span style="color:#e0915c;">ESI Highly Cited Paper</span>**)           
   [paper](https://ieeexplore.ieee.org/document/8478157) [arXiv](https://arxiv.org/abs/1804.00433) [code](https://github.com/xw-hu/SINet) [LSVH dataset (Google)](https://drive.google.com/file/d/1raH0LF-hADB4BZmU9SAv19EWV6dxyQAw/view) [LSVH dataset (Baidu)](https://pan.baidu.com/s/1lrasgXOUVC-qX_yb6t1fKA)
 
 - **Probabilistic Multilayer Regularization Network for Unsupervised 3D Brain Image Registration**  
@@ -320,17 +320,17 @@ author_profile: true
 
 - **Direction-Aware Spatial Context Features for Shadow Detection**  
   **Xiaowei Hu**, Lei Zhu, Chi-Wing Fu, Jing Qin, and Pheng-Ann Heng  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 7454-7462, 2018. (**<span style="color:#e0915c;">Oral</span>**)
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 7454-7462, 2018. (**<span style="color:#e0915c;">Oral</span>**)                   
   [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Direction-Aware_Spatial_Context_CVPR_2018_paper.pdf) [arXiv](https://arxiv.org/abs/1712.04142) [supp.](https://xw-hu.github.io/paper_material/CVPR18_DSC_supp.pdf) [code](https://github.com/xw-hu/DSC) [results](https://drive.google.com/open?id=1DCTqEnYJ8ADBqShBzXFYKa_yD-YZKEo7) [poster](https://xw-hu.github.io/paper_material/CVPR18_DSC_poster.pdf) [slides](https://xw-hu.github.io/paper_material/CVPR18_DSC_slides.pdf) [video](https://www.youtube.com/watch?v=zVYY9HaEJnc&t=1195s)
 
 - **Recurrently Aggregating Deep Features for Salient Object Detection**  
   **Xiaowei Hu**, Lei Zhu, Jing Qin, Chi-Wing Fu, and Pheng-Ann Heng  
-  AAAI Conference on Artificial Intelligence (**AAAI**), pp. 6943-6950, 2018. (**<span style="color:#e0915c;">Spotlight</span>**)  
+  AAAI Conference on Artificial Intelligence (**AAAI**), pp. 6943-6950, 2018. (**<span style="color:#e0915c;">Spotlight</span>**)      
   [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16775/16281) [supp.](https://xw-hu.github.io/paper_material/AAAI18_RADF_supp.pdf) [code](https://github.com/xw-hu/RADF) [results](https://drive.google.com/drive/folders/0B8VpfLBo2BeyNWxnMURWNlU0YVE) [poster](https://xw-hu.github.io/paper_material/AAAI18_RADF_poster.pdf)
 
 - **R³Net: Recurrent Residual Refinement Network for Saliency Detection**  
   Zijun Deng^, **Xiaowei Hu^**, Lei Zhu, Xuemiao Xu, Jing Qin, Guoqiang Han, and Pheng-Ann Heng  
-  International Joint Conference on Artificial Intelligence (**IJCAI**), pp. 684-690, 2018. (**<span style="color:#e0915c;">Oral</span>**)
+  International Joint Conference on Artificial Intelligence (**IJCAI**), pp. 684-690, 2018. (**<span style="color:#e0915c;">Oral</span>**)              
   [paper](https://www.ijcai.org/proceedings/2018/0095.pdf) [code](https://github.com/zijundeng/R3Net) [results](https://drive.google.com/open?id=1PloaTokZEfWPy8voDm7mp3yvHnXCtn2c) [poster](https://xw-hu.github.io/paper_material/IJCAI18_R3Net_poster.pdf) [slides](https://xw-hu.github.io/paper_material/IJCAI18_R3Net_slides.pdf)
 
 - **Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection**  

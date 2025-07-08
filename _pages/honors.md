@@ -1,11 +1,9 @@
 ---
 layout: single
-title: 
+title: "Honors and Awards"
 permalink: /honors/
 author_profile: true
 ---
-
-# Honors and Awards
 
 - [**World’s Top 2% Scientists by Stanford University**](https://github.com/xw-hu/xw-hu.github.io/blob/master/_pages/Top_2%25_Scientist_2024.png?raw=true) <span style="float:right; color:gray; font-size:0.9em;">2022–2024</span>
 - **Outstanding Young Talents Program of China** <span style="float:right; color:gray; font-size:0.9em;">2023</span>

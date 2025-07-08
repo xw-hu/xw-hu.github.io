@@ -363,3 +363,14 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+
+/*
+   // 修改容器最大宽度
+   ========================================================================== */
+
+.container {
+  max-width: 1200px;  // 设置你需要的最大宽度
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}

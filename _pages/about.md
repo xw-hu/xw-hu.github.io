@@ -23,11 +23,11 @@ If you are a student at SCUT and interested in doing research with me, please do
 
 # News
 
-- **[06/2025]** One paper accepted to ICCV 2025  
-- **[04/2025]** Congrats to Jiaqi and Donghao for your papers accepted to TCSVT and IJCAI 2025  
-- **[02/2025]** One paper accepted to CVPR 2025  
-- **[12/2024]** One paper accepted to TPAMI  
-- **[09/2024]** [World’s Top 2% Scientists by Stanford University](https://topresearcherslist.com/Home/Profile/845511)  
-- **[09/2024]** One paper accepted to TIP  
-- **[09/2024]** Our survey paper “*Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era*” is publicly available [[link](https://xw-hu.github.io/publications/)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]  
-- **[07/2024]** One paper accepted to ECCV 2024
+[06/2025] One paper accepted to ICCV 2025  
+[04/2025] Congrats to Jiaqi and Donghao for your papers accepted to TCSVT and IJCAI 2025  
+[02/2025] One paper accepted to CVPR 2025  
+[12/2024] One paper accepted to TPAMI  
+[09/2024] [World’s Top 2% Scientists by Stanford University](https://topresearcherslist.com/Home/Profile/845511)  
+[09/2024] One paper accepted to TIP  
+[09/2024] Our survey paper “*Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era*” is publicly available [[link](https://xw-hu.github.io/publications/)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]  
+[07/2024] One paper accepted to ECCV 2024

@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Xiaowei Hu / Professor"
+homepage: true
 author_profile: true
 redirect_from: 
   - /about/

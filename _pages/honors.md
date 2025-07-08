@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Honors & Press"
+title: 
 permalink: /honors/
 author_profile: true
 ---

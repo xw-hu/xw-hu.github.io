@@ -16,7 +16,7 @@ author_profile: true
 ### Guest Lectures / Tutorials
 
 - **Basic Vision Models (Object Detection)**  
-  The Hong Kong University of Science and Technology (HKUST), Feb. & Sep. 2022, Sep. 2023.
+  The Hong Kong University of Science and Technology, Feb. & Sep. 2022, Sep. 2023.
 
 - **Demystifying the Giants: An Introduction to Large Language and Vision Models with Healthcare Applications**  
   The Hong Kong Polytechnic University, Nov. 2023.

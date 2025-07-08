@@ -8,7 +8,6 @@ author_profile: true
 **Summary:** CVPR, ICCV & ECCV (16), TPAMI (3), IEEE Transactions (20).  
 <small>^ joint first authors; * corresponding author</small>
 
----
 
 ## 2025
 
@@ -348,7 +347,6 @@ author_profile: true
   Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support, pp. 186-194, 2017.  
   [paper](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_22) [code](https://github.com/xw-hu/AGNet)
 
----
 
 ## PhD Thesis
 
@@ -357,7 +355,6 @@ author_profile: true
   The Chinese University of Hong Kong, June, 2020.  
   [thesis](https://repository.lib.cuhk.edu.hk/en/item/cuhk-2627640)
 
----
 
 ## Patents
 

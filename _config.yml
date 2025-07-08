@@ -299,20 +299,3 @@ compress_html:
   ignore:
     envs: development
 
-
-# Navigation Pages
-nav_pages:
-  - title: "Publications"
-    url: /publications/
-  - title: "Honors & Press"
-    url: /honors/
-  - title: "Talks"
-    url: /talks/
-  - title: "Professional Services"
-    url: /services/
-  - title: "Students"
-    url: /students/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: /cv/

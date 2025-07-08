@@ -8,7 +8,6 @@ author_profile: true
 **Summary:** CVPR, ICCV & ECCV (16), TPAMI (3), IEEE Transactions (20).  
 <small>^ joint first authors; * corresponding author</small>
 
-
 ## 2025
 
 - **Demystify Transformers & Convolutions in Modern Image Deep Networks**  

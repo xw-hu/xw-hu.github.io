@@ -70,8 +70,6 @@ author_profile: true
   ArXiv Tech Report, 2025  
   [arXiv](https://arxiv.org/abs/2502.20780)
 
----
-
 ## 2024
 
 - **Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era**  
@@ -114,7 +112,6 @@ author_profile: true
   ACM Transactions on Multimedia Computing Communications and Applications (**ACM TOMM**), vol. 20, no. 1, pp. 1-21, 2024  
   [paper](https://dl.acm.org/doi/10.1145/3597612) [arXiv](https://arxiv.org/abs/2206.09552)
 
----
 
 ## 2023
 
@@ -190,7 +187,6 @@ author_profile: true
   AAAI Conference on Artificial Intelligence (**AAAI**), pp. 3099-3107, 2022.  
   [paper](https://ojs.aaai.org/index.php/AAAI/article/download/20217/19976) [arXiv](https://arxiv.org/abs/2201.08657) [code](https://github.com/xmed-lab/EPL_SemiDG)
 
----
 
 ## 2021
 
@@ -239,7 +235,6 @@ author_profile: true
   Medical Image Analysis (**MedIA**), vol. 70, article no. 101989, 2021.  
   [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000359) [arXiv](https://arxiv.org/abs/2104.01896)
 
----
 
 ## 2020
 
@@ -320,7 +315,6 @@ author_profile: true
   Medical Image Analysis (**MedIA**), vol. 52, pp. 24-41, 2019.  
   [paper](https://www.sciencedirect.com/science/article/abs/pii/S136184151830865X)
 
----
 
 ## 2018 & Before
 

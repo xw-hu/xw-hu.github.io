@@ -36,7 +36,7 @@ author_profile: true
   Tutorial at Nanjing University of Aeronautics and Astronautics, October 2021.
 
 - **Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data**  
-  Talk at Hong Kong Computer Vision Workshop, October 2019. <span style="color:rgb(224,145,92)"><b>Best Oral Presentation Award</b></span>
+  Talk at Hong Kong Computer Vision Workshop, October 2019. (<span style="color:rgb(224,145,92)"><b>Best Oral Presentation Award</b></span>)
 
 - **Direction-Aware Spatial Context Features for Shadow Detection**  
   Talk at AI Research Club, July 2018. [[report](https://www.leiphone.com/news/201808/CbEQPq5usfUIPBpZ.html)]

@@ -10,7 +10,7 @@ author_profile: true
 
 ## Conference Reviews
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019–2025)     
-- IEEE International Conference on Computer Vision (ICCV 2019 [[<span style="color:#e0915c;"><b>Outstanding Reviewer</b></span>]] /2021/2023/2025)          
+- IEEE International Conference on Computer Vision (ICCV 2019 [<span style="color:#e0915c;"><b>Outstanding Reviewer</b></span>] /2021/2023/2025)          
 - European Conference on Computer Vision (ECCV 2020/2022/2024)        
 - Neural Information Processing Systems (NeurIPS 2023)       
 - International Conference on Learning Representations (ICLR 2023–2025)        

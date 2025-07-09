@@ -4,7 +4,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xiaowei Hu / 胡枭玮"
+title                    : "Xiaowei Hu"
 title_separator          : "-"
 name                     : &name "Xiaowei Hu / 胡枭玮"
 description              : &description "Professor at South China University of Technology"

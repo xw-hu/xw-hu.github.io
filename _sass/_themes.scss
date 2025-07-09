@@ -80,9 +80,13 @@ $susy: (
     math: fluid,
     output: float,
     gutter-position: after,
-    container: 10px,  /* 默认宽度为屏幕的 80% */
+    container: 80% !important,  /* 强制应用样式 */
     global-box-sizing: border-box,
 );
+
+.container {
+    background-color: rgba(0, 0, 255, 0.1);  /* 添加临时背景色检查容器 */
+}
 
 /* ==========================================================================
    BRAND COLORS

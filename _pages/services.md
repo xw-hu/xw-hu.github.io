@@ -5,11 +5,6 @@ permalink: /services/
 author_profile: true
 ---
 
-## Academic and Professional Society Memberships
-- Member, IEEE
-- Member, Computer Vision Foundation (CVF)
-- Committee Member, Youth Working Committee, Guangdong Society of Image and Graphics (广东省图象图形学会青年工作委员会委员)
-
 ## Area Chair / Senior Program Committee
 - Area Chair, Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)
 - Senior Program Committee, AAAI Conference on Artificial Intelligence (AAAI 2026)   
@@ -44,3 +39,8 @@ author_profile: true
 - Computers & Graphics      
 - IEEE Computer Graphics and Applications (CG&A)        
 
+
+## Academic and Professional Society Memberships
+- Member, IEEE
+- Member, Computer Vision Foundation (CVF)
+- Committee Member, Youth Working Committee, Guangdong Society of Image and Graphics (广东省图象图形学会青年工作委员会委员)

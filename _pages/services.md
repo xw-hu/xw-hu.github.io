@@ -21,7 +21,7 @@ author_profile: true
 - Pacific Conference on Computer Graphics and Applications (PG 2020/2021)       
 - Medical Image Computing and Computer Assisted Intervention (MICCAI 2019–2021)       
 
-## Journal Reviews
+## Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)     
 - International Journal of Computer Vision (IJCV)     
 - IEEE Transactions on Image Processing (TIP)         

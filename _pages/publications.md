@@ -48,6 +48,7 @@ author_profile: true
   Medical Physics, vol. 52, no. 2, pp. 787-800, 2025.  
   [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17506)]
 
+<!--
 - Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making  
   _Yihan Wang^, Qiao Yan^, Zhenghao Xing^, Lihao Liu, Junjun He, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_  
   ArXiv Tech Report, 2025  
@@ -67,9 +68,10 @@ author_profile: true
   _Qiao Yan, Yuchen Yuan, **Xiaowei Hu**, Yihan Wang, Jiaqi Xu, Jinpeng Li, Chi-Wing Fu, and Pheng-Ann Heng_  
   ArXiv Tech Report, 2025  
   [[arXiv](https://arxiv.org/abs/2502.20780)]
+  -->
 
 **2024**
-
+<!--
 - Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era  
   _**Xiaowei Hu^**, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_  
   ArXiv Tech Report, 2024  
@@ -79,6 +81,7 @@ author_profile: true
   _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, and Junjun He_  
   ArXiv Tech Report, 2024  
   [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
+-->
 
 - Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models  
   _Jiaqi Xu, Mengyang Wu, **Xiaowei Hu\***, Chi-Wing Fu, Qi Dou, and Pheng-Ann Heng_  

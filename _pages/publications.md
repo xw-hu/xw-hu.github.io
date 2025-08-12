@@ -15,14 +15,14 @@ author_profile: true
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), vol. 47, no. 4, pp. 2416-2428, 2025.  
   [[paper](https://ieeexplore.ieee.org/document/10810738)] [[arXiv](https://arxiv.org/abs/2211.05781)] [[code](https://github.com/OpenGVLab/STM-Evaluation)]     
 
+- Fast Image Super-Resolution via Consistency Rectified Flow  
+  _Jiaqi Xu, Wenbo Li, Haoze Sun, Fan Li, Zhixin Wang, Long Peng, Jingjing Ren, Haoran Yang, **Xiaowei Hu**, Renjing Pei, and Pheng-Ann Heng_  
+  IEEE International Conference on Computer Vision (**ICCV**), accepted, 2025.
+  
 - EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights  
   _Zhenghao Xing^, Hao Chen^, Binzhu Xie, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_  
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 19098-19108, 2025.  
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html)] [[code](https://github.com/HarryHsing/EchoTraffic)]      
-
-- Fast Image Super-Resolution via Consistency Rectified Flow  
-  _Jiaqi Xu, Wenbo Li, Haoze Sun, Fan Li, Zhixin Wang, Long Peng, Jingjing Ren, Haoran Yang, **Xiaowei Hu**, Renjing Pei, and Pheng-Ann Heng_  
-  IEEE International Conference on Computer Vision (**ICCV**), accepted, 2025.    
 
 - MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models  
   _Donghao Zhou^, Jiancheng Huang^, Jinbin Bai, Jiaze Wang, Hao Chen, Guangyong Chen, **Xiaowei Hu\***, and Pheng-Ann Heng_  

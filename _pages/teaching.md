@@ -7,9 +7,9 @@ author_profile: true
 
 ## School of Future Technology, South China University of Technology
 
-- **Multimodal Large Models and Intelligent Agents**  
-  Undergraduate Course, Fall 2025.      
-  *Course lead.*  
+<!-- - **Multimodal Large Models and Intelligent Agents**  
+  Undergraduate Course, Fall 2025.        
+  -->
 
 ## Guest Lectures / Tutorials
 

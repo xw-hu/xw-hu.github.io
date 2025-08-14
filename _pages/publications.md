@@ -68,11 +68,8 @@ author_profile: true
   _Qiao Yan, Yuchen Yuan, **Xiaowei Hu**, Yihan Wang, Jiaqi Xu, Jinpeng Li, Chi-Wing Fu, and Pheng-Ann Heng_  
   ArXiv Tech Report, 2025  
   [[arXiv](https://arxiv.org/abs/2502.20780)]
-  -->
 
-**2024**
-<!--
-- Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era  
+  - Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era  
   _**Xiaowei Hu^**, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_  
   ArXiv Tech Report, 2024  
   [[arXiv](https://arxiv.org/abs/2409.02108)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[supp.](https://github.com/xw-hu/Unveiling-Deep-Shadows/blob/main/Supplementary_Material-Unveiling_Deep_Shadows.pdf)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
@@ -81,8 +78,9 @@ author_profile: true
   _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, and Junjun He_  
   ArXiv Tech Report, 2024  
   [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
--->
+  -->
 
+**2024**
 - Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models  
   _Jiaqi Xu, Mengyang Wu, **Xiaowei Hu\***, Chi-Wing Fu, Qi Dou, and Pheng-Ann Heng_  
   European Conference on Computer Vision (**ECCV**), pp. 147-164, 2024  

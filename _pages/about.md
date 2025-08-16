@@ -31,3 +31,10 @@ If you are a student at SCUT and interested in doing research with me, please do
 [09/2024] One paper accepted to TIP  
 [09/2024] Our survey paper “*Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era*” is publicly available [[link](https://xw-hu.github.io/publications/)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]  
 [07/2024] One paper accepted to ECCV 2024
+
+# Academic Genealogy
+
+Here is my academic genealogy:
+
+![Academic Genealogy](images/genealogy.png)
+

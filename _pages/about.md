@@ -36,5 +36,5 @@ If you are a student at SCUT and interested in doing research with me, please do
 
 Here is my academic genealogy:
 
-![Academic Genealogy](images/genealogy.png)
+![Academic Genealogy](https://xw-hu.github.io/_pages/genealogy.png)
 

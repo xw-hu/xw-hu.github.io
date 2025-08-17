@@ -7,7 +7,7 @@ author_profile: true
 
 ## Previous Mentorship
 
-- [Jiaqi Xu](https://jiaqixuac.github.io/) (Jan. 2022 – Mar. 2023, Research Intern at Shanghai AI Lab, PhD Student at CUHK)
+- [Jiaqi Xu](https://jiaqixuac.github.io/) (Jan. 2022 – Mar. 2023, Research Intern at Shanghai AI Lab, PhD Student at CUHK, now with Huawei)
 - [Tianyu Wang](https://stevewongv.github.io/) (Jan. 2022 – Mar. 2023, Research Intern at Shanghai AI Lab, PhD Student at CUHK, now Research Scientist at Adobe Research, USA)
 - Chuanjun Zheng (Jul. 2022 – Jun. 2023, Research Intern at Shanghai AI Lab, now PhD student at Northeastern University, USA)
 - [Yurui Zhu](https://zhuyr97.github.io/) (Jul. 2022 – Apr. 2023, Research Intern at Shanghai AI Lab, PhD Student at USTC)

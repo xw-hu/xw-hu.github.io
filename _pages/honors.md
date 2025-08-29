@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 - [**World’s Top 2% Scientists by Stanford University**](https://github.com/xw-hu/xw-hu.github.io/blob/master/_pages/Top_2%25_Scientist_2024.png?raw=true) <span style="float:right; color:gray; font-size:0.9em;">2022–2024</span>
-<!-- - **Outstanding Young Talents Program of China** <span style="float:right; color:gray; font-size:0.9em;">2023</span>  -->
-- [**Achieved Excellence in the Hong Kong Young Scientist Award**](https://github.com/xw-hu/xw-hu.github.io/blob/master/_pages/2021YSA.png?raw=true) <span style="float:right; color:gray; font-size:0.9em;">2021</span>
+<!-- - **Outstanding Young Talents Program of China** <span style="float:right; color:gray; font-size:0.9em;">2023</span>  -->- [**Achieved Excellence in the Hong Kong Young Scientist Award**](https://github.com/xw-hu/xw-hu.github.io/blob/master/_pages/2021YSA.png?raw=true) <span style="float:right; color:gray; font-size:0.9em;">2021</span>
 - **CVPR Doctoral Consortium Award** (31 awardees globally) <span style="float:right; color:gray; font-size:0.9em;">2020</span>
 - **Best Oral Presentation Award of Hong Kong Computer Vision Workshop**      <span style="float:right; color:gray; font-size:0.9em;">2019</span>
 - [**Hong Kong Ph.D. Fellowship**](https://cerg1.ugc.edu.hk/hkpfs/index.html) <span style="float:right; color:gray; font-size:0.9em;">2016</span>

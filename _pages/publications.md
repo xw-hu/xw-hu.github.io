@@ -48,7 +48,7 @@ author_profile: true
   Medical Physics, vol. 52, no. 2, pp. 787-800, 2025.  
   [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17506)]
 
-- A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers 
+- A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers                  
   _Ming Hu et al._  
   ArXiv Tech Report, 2025  
   [[arXiv](https://arxiv.org/abs/2508.21148)] [[project](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)]

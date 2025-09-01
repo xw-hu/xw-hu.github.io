@@ -7,7 +7,7 @@ author_profile: true
 
 ## South China University of Technology
 
- - **Introduction Computer Science and Software Engineering**  
+ - **Introduction to Computer Science and Software Engineering**  
   Undergraduate Course, Fall 2025.
 
   - **Deep Learning and Computer Vision**  

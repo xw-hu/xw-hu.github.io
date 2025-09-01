@@ -5,8 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## School of Future Technology, South China University of Technology
+## South China University of Technology
 
+ - **Introduction Computer Science and Software Engineering**  
+  Undergraduate Course, Fall 2025.
+
+  - **Deep Learning and Computer Vision**  
+  Undergraduate Course, Spring 2026.     
+  
 <!-- - **Multimodal Large Models and Intelligent Agents**  
   Undergraduate Course, Fall 2025.        
   -->

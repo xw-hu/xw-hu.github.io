@@ -50,7 +50,7 @@ author_profile: true
 
 - A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers                  
   _Ming Hu et al._  
-  ArXiv Tech Report, 2025  
+  ArXiv Tech Report, 2025.    
   [[arXiv](https://arxiv.org/abs/2508.21148)] [[project](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)]
 
 <!--

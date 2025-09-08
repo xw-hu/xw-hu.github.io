@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Professor at the [School of Future Technology](https://www2.scut.edu.cn/ft/), [South China University of Technology (SCUT)](https://www2.scut.edu.cn/gzic/). Before joining SCUT, I was a Research Scientist at the [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), supervised by Prof. [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) and Prof. [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), and my B.Eng. from [South China University of Technology (SCUT)](http://www.scut.edu.cn/new/).
 
-My research interests include computer vision, low-level vision, visual perception, medical AI, and deep learning. Specifically, my research focuses on: (i) Revitalizing visual content under adverse weather and complex illumination conditions; (ii) Developing intelligent perception and reasoning systems capable of continuous operation and adaptability; and (iii) Creating next-generation multimodal models for efficient multitask learning and robust understanding and generation.
+My research interests include computer vision, low-level vision, intelligent perception and reasoning, multimodal foundation models and agents, and medical AI. Specifically, my research focuses on: (i) Revitalizing visual content under adverse weather and complex illumination conditions; (ii) Developing intelligent perception and reasoning systems capable of continuous operation and adaptability; and (iii) Creating next-generation multimodal models for efficient multitask learning and robust understanding and generation.
 
 # <span style="color:red;">Openings</span>
 

@@ -23,7 +23,8 @@ If you are a student at SCUT and interested in doing research with me, please do
 
 # News
 
-[06/2025] One paper accepted to ICCV 2025  
+[09/2025] Two papers accepted to NeurIPS 2025 (Congrats to Fuyang and Donghao)
+[06/2025] One paper accepted to ICCV 2025  (Congrats to Jiaqi)
 [04/2025] Congrats to Jiaqi and Donghao for your papers accepted to TCSVT and IJCAI 2025  
 [02/2025] One paper accepted to CVPR 2025  
 [12/2024] One paper accepted to TPAMI  

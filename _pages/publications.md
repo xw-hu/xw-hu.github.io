@@ -16,7 +16,7 @@ author_profile: true
   [[paper](https://ieeexplore.ieee.org/document/10810738)] [[arXiv](https://arxiv.org/abs/2211.05781)] [[code](https://github.com/OpenGVLab/STM-Evaluation)]     
 
 - Real-World Adverse Weather Image Restoration via Dual-Level Reinforcement Learning with High-Quality Cold Start                
-  _Fuyang Liu, Jiaqi Xu, **Xiaowei Hu\***_  
+  _Fuyang Liu, Jiaqi Xu, and **Xiaowei Hu\***_  
  Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.
 
 - Fast Image Super-Resolution via Consistency Rectified Flow  

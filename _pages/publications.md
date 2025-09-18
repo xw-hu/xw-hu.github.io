@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (4), AAAI/IJCAI/ACM MM (8), TPAMI (3), IEEE Transactions (20).  
+**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (8), TPAMI (3), IEEE Transactions (20).  
 <small>^ joint first authors; * corresponding author</small>
 
 **2025**
@@ -17,6 +17,10 @@ author_profile: true
 
 - Real-World Adverse Weather Image Restoration via Dual-Level Reinforcement Learning with High-Quality Cold Start                
   _Fuyang Liu, Jiaqi Xu, and **Xiaowei Hu\***_  
+ Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.
+
+- SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency                
+  _Quanjian Song, Donghao Zhou, Jingyu Lin, Fei Shen, Jiaze Wang, **Xiaowei Hu**, Cunjian Chen, and Pheng-Ann Heng_          
  Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.
 
 - Fast Image Super-Resolution via Consistency Rectified Flow  

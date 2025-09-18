@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-**Summary:** CVPR/ICCV/ECCV (16), AAAI/IJCAI/ACM MM (8), TPAMI (3), IEEE Transactions (20).  
+**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (4), AAAI/IJCAI/ACM MM (8), TPAMI (3), IEEE Transactions (20).  
 <small>^ joint first authors; * corresponding author</small>
 
 **2025**
@@ -14,6 +14,10 @@ author_profile: true
   _**Xiaowei Hu^**, Min Shi^, Weiyun Wang^, Sitong Wu^, Linjie Xing, Wenhai Wang, Xizhou Zhu, Lewei Lu, Jie Zhou, Xiaogang Wang, Yu Qiao, and Jifeng Dai*_  
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), vol. 47, no. 4, pp. 2416-2428, 2025.  
   [[paper](https://ieeexplore.ieee.org/document/10810738)] [[arXiv](https://arxiv.org/abs/2211.05781)] [[code](https://github.com/OpenGVLab/STM-Evaluation)]     
+
+- Real-World Adverse Weather Image Restoration via Dual-Level Reinforcement Learning with High-Quality Cold Start
+  _Fuyang Liu, Jiaqi Xu, **Xiaowei Hu\***_  
+ Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.
 
 - Fast Image Super-Resolution via Consistency Rectified Flow  
   _Jiaqi Xu, Wenbo Li, Haoze Sun, Fan Li, Zhixin Wang, Long Peng, Jingjing Ren, Haoran Yang, **Xiaowei Hu**, Renjing Pei, and Pheng-Ann Heng_  

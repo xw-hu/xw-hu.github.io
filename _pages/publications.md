@@ -15,7 +15,7 @@ author_profile: true
   IEEE Transactions on Pattern Analysis and Machine Intelligence (**IEEE TPAMI**), vol. 47, no. 4, pp. 2416-2428, 2025.  
   [[paper](https://ieeexplore.ieee.org/document/10810738)] [[arXiv](https://arxiv.org/abs/2211.05781)] [[code](https://github.com/OpenGVLab/STM-Evaluation)]     
 
-- Real-World Adverse Weather Image Restoration via Dual-Level Reinforcement Learning with High-Quality Cold Start
+- Real-World Adverse Weather Image Restoration via Dual-Level Reinforcement Learning with High-Quality Cold Start                
   _Fuyang Liu, Jiaqi Xu, **Xiaowei Hu\***_  
  Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.
 

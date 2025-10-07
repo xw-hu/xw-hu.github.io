@@ -20,7 +20,7 @@ author_profile: true
  Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.
 
 - SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency                
-  _Quanjian Song, Donghao Zhou, Jingyu Lin, Fei Shen, Jiaze Wang, **Xiaowei Hu**, Cunjian Chen, and Pheng-Ann Heng_          
+  _Quanjian Song^, Donghao Zhou^, Jingyu Lin^, Fei Shen, Jiaze Wang, **Xiaowei Hu\***, Cunjian Chen\*, and Pheng-Ann Heng_          
  Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.
 
 - Fast Image Super-Resolution via Consistency Rectified Flow  

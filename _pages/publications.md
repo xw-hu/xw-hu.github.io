@@ -39,7 +39,7 @@ author_profile: true
 
 - Device-Cloud Collaborative Learning Framework for Efficient Unknown Object Detection  
   _Kewei Zhao, **Xiaowei Hu**, and Qinya Li_  
-  ACM Multimedia (**ACM MM**), accepted, 2025.
+  ACM Multimedia (**ACM MM**), pp. 11890-11898, 2025.
 
 - Unifying Physically-Informed Weather Priors in A Single Model for Image Restoration Across Multiple Adverse Weather Conditions  
   _Jiaqi Xu, **Xiaowei Hu\***, Lei Zhu, and Pheng-Ann Heng_  

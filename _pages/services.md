@@ -10,11 +10,11 @@ author_profile: true
 - Senior Program Committee, AAAI Conference on Artificial Intelligence (AAAI 2026)   
 
 ## Conference Program Committee & Reviewer
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019–2025)     
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019–2026)     
 - IEEE International Conference on Computer Vision (ICCV 2019 [<span style="color:#e0915c;"><b>Outstanding Reviewer</b></span>] /2021/2023/2025)          
 - European Conference on Computer Vision (ECCV 2020/2022/2024)        
 - Neural Information Processing Systems (NeurIPS 2023-2025)       
-- International Conference on Learning Representations (ICLR 2023–2025)        
+- International Conference on Learning Representations (ICLR 2023–2026)        
 - SIGGRAPH Asia 2022       
 - AAAI Conference on Artificial Intelligence (AAAI 2020–2025)         
 - ACM International Conference on Multimedia (ACM MM 2021/2022/2024)        

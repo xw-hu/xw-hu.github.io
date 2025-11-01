@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Current Students
 
-- Hanchen Wang (M.Sc. Student, admitted in 2026, South China University of Technology)
-- Yanxu Zhu (M.Sc. Student, admitted in 2026, South China University of Technology)
+- Hanchen Wang (Master’s Student, admitted in 2026, South China University of Technology)
+- Yanxu Zhu (Master’s Student, admitted in 2026, South China University of Technology)
   
 ## Previous Mentorship
 

@@ -4,7 +4,11 @@ title: "Students"
 permalink: /students/
 author_profile: true
 ---
+## Current Students
 
+- Hanchen Wang (M.Sc. Student, admitted in 2026, South China University of Technology)
+- Yanxu Zhu (M.Sc. Student, admitted in 2026, South China University of Technology)
+  
 ## Previous Mentorship
 
 - [Jiaqi Xu](https://jiaqixuac.github.io/) (Jan. 2022 – Mar. 2023, Research Intern at Shanghai AI Lab, PhD Student at CUHK, now with Huawei)

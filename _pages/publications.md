@@ -25,32 +25,32 @@ author_profile: true
 
 - Fast Image Super-Resolution via Consistency Rectified Flow  
   _Jiaqi Xu, Wenbo Li, Haoze Sun, Fan Li, Zhixin Wang, Long Peng, Jingjing Ren, Haoran Yang, **Xiaowei Hu**, Renjing Pei, and Pheng-Ann Heng_  
-  IEEE International Conference on Computer Vision (**ICCV**), pp. 11755-11765, 2025.
-    [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Fast_Image_Super-Resolution_via_Consistency_Rectified_Flow_ICCV_2025_paper.pdf)] 
+  IEEE International Conference on Computer Vision (**ICCV**), pp. 11755-11765, 2025.                                 
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Fast_Image_Super-Resolution_via_Consistency_Rectified_Flow_ICCV_2025_paper.pdf)] 
   
 - EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights  
   _Zhenghao Xing^, Hao Chen^, Binzhu Xie, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 19098-19108, 2025.  
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 19098-19108, 2025.        
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html)] [[code](https://github.com/HarryHsing/EchoTraffic)]      
 
 - MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models  
   _Donghao Zhou^, Jiancheng Huang^, Jinbin Bai, Jiaze Wang, Hao Chen, Guangyong Chen, **Xiaowei Hu\***, and Pheng-Ann Heng_  
-  International Joint Conference on Artificial Intelligence (**IJCAI**), pp. 10225-10233, 2025.  
+  International Joint Conference on Artificial Intelligence (**IJCAI**), pp. 10225-10233, 2025.       
   [[paper](https://www.ijcai.org/proceedings/2025/1136.pdf)] [[arXiv](https://arxiv.org/abs/2410.13370)] [[project](https://correr-zhou.github.io/MagicTailor)] 
 
 - Device-Cloud Collaborative Learning Framework for Efficient Unknown Object Detection  
   _Kewei Zhao, **Xiaowei Hu**, and Qinya Li_  
-  ACM Multimedia (**ACM MM**), pp. 11890-11898, 2025.
+  ACM Multimedia (**ACM MM**), pp. 11890-11898, 2025.                       
   [[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755681)]
 
 - Unifying Physically-Informed Weather Priors in A Single Model for Image Restoration Across Multiple Adverse Weather Conditions  
   _Jiaqi Xu, **Xiaowei Hu\***, Lei Zhu, and Pheng-Ann Heng_  
-  IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), vol. 35 no. 10, pp. 9575-9591, 2025.  
+  IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), vol. 35 no. 10, pp. 9575-9591, 2025.    
   [[paper](https://ieeexplore.ieee.org/document/10966874)]
 
 - Volumetric Medical Image Segmentation via Fully 3D Adaptation of Segment Anything Model  
   _Haoneng Lin, Jing Zou, Sen Deng, Ka Po Wong, Angelica I. Aviles-Rivero, Yiting Fan, Alex Pui-Wai Lee, **Xiaowei Hu**, and Jing Qin_  
-  Biocybernetics and Biomedical Engineering, vol. 45, pp. 1-10, 2025.  
+  Biocybernetics and Biomedical Engineering, vol. 45, pp. 1-10, 2025.   
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0208521624000846)]
 
 - Multi-Scale Contextual Learning for Medical Image Segmentation via Dual Distillationn  

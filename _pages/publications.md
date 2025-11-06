@@ -22,7 +22,7 @@ author_profile: true
 - SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency                
   _Quanjian Song^, Donghao Zhou^, Jingyu Lin^, Fei Shen, Jiaze Wang, **Xiaowei Hu\***, Cunjian Chen\*, and Pheng-Ann Heng_          
  Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.                        
- [[arXiv](https://arxiv.org/abs/2510.22994)]
+ [[arXiv](https://arxiv.org/abs/2510.22994)] [[project](https://lulupig12138.github.io/SceneDecorator/)]
 
 - Fast Image Super-Resolution via Consistency Rectified Flow  
   _Jiaqi Xu, Wenbo Li, Haoze Sun, Fan Li, Zhixin Wang, Long Peng, Jingjing Ren, Haoran Yang, **Xiaowei Hu**, Renjing Pei, and Pheng-Ann Heng_  

@@ -22,6 +22,7 @@ If you are a student at SCUT and interested in doing research with me, please do
 如果你是华南理工大学的学生，并有兴趣参与相关科研工作，也欢迎随时邮件联系我！
 
 # News
+[11/2025] Two papers accepted to AAAI 2026             
 [09/2025] [World’s Top 2% Scientists by Stanford University](https://topresearcherslist.com/Home/Profile/845511)                       
 [09/2025] Two papers accepted to NeurIPS 2025 (Congrats to Fuyang and Donghao)                     
 [06/2025] One paper accepted to ICCV 2025  (Congrats to Jiaqi)                     

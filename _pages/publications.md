@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (8), TPAMI (3), IEEE Transactions (20).  
+**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI (3), IEEE Transactions (20).  
 <small>^ joint first authors; * corresponding author</small>
 
 

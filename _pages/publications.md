@@ -8,6 +8,23 @@ author_profile: true
 **Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (8), TPAMI (3), IEEE Transactions (20).  
 <small>^ joint first authors; * corresponding author</small>
 
+
+**2026**
+
+- IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation
+  _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, Pheng-Ann Heng_
+  AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.              
+
+- SurgPub-Video: A Comprehensive Surgical Video Dataset for Enhanced Surgical Intelligence in Vision-Language Model                   
+  _Yaoqian Li^, Xikai Yang^, Dunyuan Xu^, Yang Yu, Litao Zhao, **Xiaowei Hu**, Jinpeng Li, Pheng-Ann Heng_                                 
+  AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.                  
+  [[arXiv](https://arxiv.org/abs/2508.10054)]                      
+
+- GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI       
+  _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, Shixiang Tang, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, Junjun He_         
+  AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.           
+  [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
+
 **2025**
 
 - Demystify Transformers & Convolutions in Modern Image Deep Networks  
@@ -89,11 +106,6 @@ author_profile: true
   _**Xiaowei Hu^**, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_  
   ArXiv Tech Report, 2024  
   [[arXiv](https://arxiv.org/abs/2409.02108)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[supp.](https://github.com/xw-hu/Unveiling-Deep-Shadows/blob/main/Supplementary_Material-Unveiling_Deep_Shadows.pdf)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
-
-- GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI  
-  _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, and Junjun He_  
-  ArXiv Tech Report, 2024  
-  [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
   -->
 
 **2024**

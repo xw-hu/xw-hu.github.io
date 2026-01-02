@@ -5,11 +5,16 @@ layout: single
 author_profile: true
 ---
 
-**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI (3), IEEE Transactions (20).  
+**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI/IJCV (4), IEEE Transactions (20).  
 <small>^ joint first authors; * corresponding author</small>
 
 
 **2026**
+
+- Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era     
+  _**Xiaowei Hu^\***, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_   
+  International Journal of Computer Vision (**IJCV**), accepted, 2026.               
+  [[arXiv](https://arxiv.org/abs/2409.02108)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[supp.](https://github.com/xw-hu/Unveiling-Deep-Shadows/blob/main/Supplementary_Material-Unveiling_Deep_Shadows.pdf)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]                           
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           
   _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, Pheng-Ann Heng_                         
@@ -103,10 +108,6 @@ author_profile: true
   ArXiv Tech Report, 2025  
   [[arXiv](https://arxiv.org/abs/2502.20780)]
 
-  - Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era  
-  _**Xiaowei Hu^**, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_  
-  ArXiv Tech Report, 2024  
-  [[arXiv](https://arxiv.org/abs/2409.02108)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[supp.](https://github.com/xw-hu/Unveiling-Deep-Shadows/blob/main/Supplementary_Material-Unveiling_Deep_Shadows.pdf)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
   -->
 
 **2024**
@@ -140,10 +141,6 @@ author_profile: true
   ACM Transactions on Multimedia Computing Communications and Applications (**ACM TOMM**), vol. 20, no. 1, pp. 1-21, 2024  
   [[paper](https://dl.acm.org/doi/10.1145/3597612)] [[arXiv](https://arxiv.org/abs/2206.09552)]
 
-- Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era  
-  _**Xiaowei Hu^**, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_  
-  ArXiv Tech Report, 2024  
-  [[arXiv](https://arxiv.org/abs/2409.02108)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[supp.](https://github.com/xw-hu/Unveiling-Deep-Shadows/blob/main/Supplementary_Material-Unveiling_Deep_Shadows.pdf)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
 
 
 **2023**

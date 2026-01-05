@@ -41,7 +41,8 @@ author_profile: true
 
 
 ## Academic and Professional Society Memberships
+- 广东省青年科学家协会理事
+- 广东省图象图形学会青年工作委员会委员
 - Member, IEEE
 - Member, Computer Vision Foundation (CVF)
 - Professional Member, China Computer Federation (CCF)
-- Committee Member, Youth Working Committee, Guangdong Society of Image and Graphics (广东省图象图形学会青年工作委员会委员)

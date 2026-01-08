@@ -30,6 +30,11 @@ author_profile: true
   AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.           
   [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
 
+- Alloy Design Paradigms in Additive Manufacturing: A New Era of Material Innovation                   
+  _Li Zhao, Tianshu Liu, **Xiaowei Hu**, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, Chaolin Tan_   
+  International Journal of Extreme Manufacturing (**IJEM**), accepted, 2026.
+  
+
 **2025**
 
 - Demystify Transformers & Convolutions in Modern Image Deep Networks  

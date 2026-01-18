@@ -5,9 +5,10 @@ permalink: /services/
 author_profile: true
 ---
 
-## Area Chair / Senior Program Committee
+## Chair
+- Session Chair, AAAI Conference on Artificial Intelligence (AAAI 2026)   
+- Senior Program Committee, AAAI Conference on Artificial Intelligence (AAAI 2026)
 - Area Chair, Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)
-- Senior Program Committee, AAAI Conference on Artificial Intelligence (AAAI 2026)   
 
 ## Conference Program Committee & Reviewer
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2019–2026)     

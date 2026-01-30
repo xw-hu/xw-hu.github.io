@@ -18,7 +18,7 @@ author_profile: true
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           
   _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, Pheng-Ann Heng_                         
-  AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.
+  AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.                                  
   [[arXiv](https://arxiv.org/abs/2512.23519)] [[project](https://correr-zhou.github.io/IdentityStory/)]                
 
 - SurgPub-Video: A Comprehensive Surgical Video Dataset for Enhanced Surgical Intelligence in Vision-Language Model                   

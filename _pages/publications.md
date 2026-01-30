@@ -18,12 +18,13 @@ author_profile: true
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           
   _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, Pheng-Ann Heng_                         
-  AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.              
+  AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.
+  [[arXiv](https://arxiv.org/abs/2512.23519)] [[project](https://correr-zhou.github.io/IdentityStory/)]                
 
 - SurgPub-Video: A Comprehensive Surgical Video Dataset for Enhanced Surgical Intelligence in Vision-Language Model                   
   _Yaoqian Li^, Xikai Yang^, Dunyuan Xu^, Yang Yu, Litao Zhao, **Xiaowei Hu**, Jinpeng Li, Pheng-Ann Heng_                                 
   AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.                  
-  [[arXiv](https://arxiv.org/abs/2508.10054)]                      
+  [[arXiv](https://arxiv.org/abs/2508.10054)]                         
 
 - GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI       
   _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, Shixiang Tang, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, Junjun He_         

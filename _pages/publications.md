@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI/IJCV (4), IEEE Transactions (20).  
+**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI/IJCV (4), IEEE Transactions (21).  
 <small>^ joint first authors; * corresponding author</small>
 
 
@@ -30,6 +30,10 @@ author_profile: true
   _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, Shixiang Tang, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, Junjun He_         
   AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.           
   [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
+
+  - Moving Beyond Functional Connectivity: Time-Series Modeling for fMRI-Based Brain Disorder Classification                                     
+  _Guoqi Yu, **Xiaowei Hu**, Angelica I. Aviles-Rivero, Anqi Qiu, Shujun Wang_           
+  IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                      
 
 - Alloy Design Paradigms in Additive Manufacturing: A New Era of Material Innovation                   
   _Li Zhao, Tianshu Liu, **Xiaowei Hu**, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, Chaolin Tan_   

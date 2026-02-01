@@ -31,7 +31,7 @@ author_profile: true
   AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.           
   [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
 
-  - Moving Beyond Functional Connectivity: Time-Series Modeling for fMRI-Based Brain Disorder Classification                                     
+- Moving Beyond Functional Connectivity: Time-Series Modeling for fMRI-Based Brain Disorder Classification                                     
   _Guoqi Yu, **Xiaowei Hu**, Angelica I. Aviles-Rivero, Anqi Qiu, Shujun Wang_           
   IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                      
 

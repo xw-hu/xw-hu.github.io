@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-**Summary:** CVPR/ICCV/ECCV (16), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI/IJCV (4), IEEE Transactions (21).  
+**Summary:** CVPR/ICCV/ECCV (17), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI/IJCV (4), IEEE Transactions (21).  
 <small>^ joint first authors; * corresponding author</small>
 
 
@@ -14,7 +14,11 @@ author_profile: true
 - Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era     
   _**Xiaowei Hu^\***, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_   
   International Journal of Computer Vision (**IJCV**), accepted, 2026.               
-  [[arXiv](https://arxiv.org/abs/2409.02108)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[supp.](https://github.com/xw-hu/Unveiling-Deep-Shadows/blob/main/Supplementary_Material-Unveiling_Deep_Shadows.pdf)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]                           
+  [[arXiv](https://arxiv.org/abs/2409.02108)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[supp.](https://github.com/xw-hu/Unveiling-Deep-Shadows/blob/main/Supplementary_Material-Unveiling_Deep_Shadows.pdf)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
+
+- HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction                         
+  _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, Jifeng Dai_  
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.            
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           
   _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, Pheng-Ann Heng_                         

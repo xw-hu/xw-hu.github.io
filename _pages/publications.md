@@ -96,7 +96,7 @@ author_profile: true
   Medical Physics, vol. 52, no. 2, pp. 787-800, 2025.  
   [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17506)]
 
-- Taming large vision model for medical image segmentation via Dual Visual Prompt Tuning                         
+- Taming Large Vision Model for Medical Image Segmentation via Dual Visual Prompt Tuning                         
   _Ruize Cui, Lanqing Liu, Jing Zou, **Xiaowei Hu\***, Jialun Pei\*, and Jing Qin_         
   Computerized Medical Imaging and Graphics, vol. 124, no. 9, 2025.        
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S089561112500117X)]              

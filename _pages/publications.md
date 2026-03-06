@@ -14,7 +14,7 @@ author_profile: true
 - Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era     
   _**Xiaowei Hu^\***, Zhenghao Xing^, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng_   
   International Journal of Computer Vision (**IJCV**), vol. 134, article no. 158, 2026.               
-  [[paper](https://link.springer.com/article/10.1007/s11263-026-02744-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260306&utm_content=10.1007%2Fs11263-026-02744-z)] [[arXiv](https://arxiv.org/abs/2409.02108v3)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[supp.](https://github.com/xw-hu/Unveiling-Deep-Shadows/blob/main/Supplementary_Material-Unveiling_Deep_Shadows.pdf)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02744-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260306&utm_content=10.1007%2Fs11263-026-02744-z)] [[arXiv](https://arxiv.org/abs/2409.02108v3)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
 
 - HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction                         
   _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, Jifeng Dai_  

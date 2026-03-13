@@ -40,8 +40,8 @@ author_profile: true
   IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                      
 
 - Alloy Design Paradigms in Additive Manufacturing: A New Era of Material Innovation                   
-  _Li Zhao, Tianshu Liu, **Xiaowei Hu**, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, Chaolin Tan_   
-  International Journal of Extreme Manufacturing (**IJEM**), accepted, 2026.
+  _Li Zhao, Tianshu Liu, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, **Xiaowei Hu**, Chaolin Tan_   
+  International Journal of Extreme Manufacturing (**IJEM**), vol. 8, article no. 033003, 2026.
   
 
 **2025**

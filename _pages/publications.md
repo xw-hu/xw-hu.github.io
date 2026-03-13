@@ -17,30 +17,30 @@ author_profile: true
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02744-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260306&utm_content=10.1007%2Fs11263-026-02744-z)] [[arXiv](https://arxiv.org/abs/2409.02108v3)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
 
 - HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction                         
-  _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, Jifeng Dai_  
+  _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, and Jifeng Dai_  
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.            
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           
-  _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, Pheng-Ann Heng_                         
+  _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_                         
   AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.                                  
   [[arXiv](https://arxiv.org/abs/2512.23519)] [[project](https://correr-zhou.github.io/IdentityStory/)]                
 
 - SurgPub-Video: A Comprehensive Surgical Video Dataset for Enhanced Surgical Intelligence in Vision-Language Model                   
-  _Yaoqian Li^, Xikai Yang^, Dunyuan Xu^, Yang Yu, Litao Zhao, **Xiaowei Hu**, Jinpeng Li, Pheng-Ann Heng_                                 
+  _Yaoqian Li^, Xikai Yang^, Dunyuan Xu^, Yang Yu, Litao Zhao, **Xiaowei Hu**, Jinpeng Li, and Pheng-Ann Heng_                                 
   AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.                  
   [[arXiv](https://arxiv.org/abs/2508.10054)]                         
 
 - GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI       
-  _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, Shixiang Tang, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, Junjun He_         
+  _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, Shixiang Tang, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, and Junjun He_         
   AAAI Conference on Artificial Intelligence (**AAAI**), accepted, 2026.           
   [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
 
 - Moving Beyond Functional Connectivity: Time-Series Modeling for fMRI-Based Brain Disorder Classification                                     
-  _Guoqi Yu, **Xiaowei Hu**, Angelica I. Aviles-Rivero, Anqi Qiu, Shujun Wang_           
+  _Guoqi Yu, **Xiaowei Hu**, Angelica I. Aviles-Rivero, Anqi Qiu, and Shujun Wang_           
   IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                      
 
 - Alloy Design Paradigms in Additive Manufacturing: A New Era of Material Innovation                   
-  _Li Zhao, Tianshu Liu, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, **Xiaowei Hu**, Chaolin Tan_   
+  _Li Zhao, Tianshu Liu, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, **Xiaowei Hu**, and Chaolin Tan_   
   International Journal of Extreme Manufacturing (**IJEM**), vol. 8, article no. 033003, 2026.
   
 

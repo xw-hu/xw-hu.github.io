@@ -20,9 +20,9 @@ author_profile: true
   _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, and Jifeng Dai_         
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                       
 
-- PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal
-  _ Zining Fang, Cheng Xue, Chunhui Liu, Bin Xu, Ming Chen, and **Xiaowei Hu**_
-  Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                                          
+- PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal                          
+  _ Zining Fang, Cheng Xue, Chunhui Liu, Bin Xu, Ming Chen, and **Xiaowei Hu**_                     
+  Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                                           
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           
   _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_                         

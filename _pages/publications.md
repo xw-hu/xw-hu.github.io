@@ -46,6 +46,7 @@ author_profile: true
 - Alloy Design Paradigms in Additive Manufacturing: A New Era of Material Innovation                   
   _Li Zhao, Tianshu Liu, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, **Xiaowei Hu**, and Chaolin Tan_   
   International Journal of Extreme Manufacturing (**IJEM**), vol. 8, article no. 033003, 2026.
+  [[paper](https://iopscience.iop.org/article/10.1088/2631-7990/ae45de)]                         
   
 
 **2025**

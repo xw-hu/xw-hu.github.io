@@ -21,7 +21,7 @@ author_profile: true
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                       
 
 - PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal                          
-  _ Zining Fang, Cheng Xue, Chunhui Liu, Bin Xu, Ming Chen, and **Xiaowei Hu**_                     
+  _Zining Fang, Cheng Xue, Chunhui Liu, Bin Xu, Ming Chen, and **Xiaowei Hu**_                     
   Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                                           
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           

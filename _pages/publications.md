@@ -16,9 +16,13 @@ author_profile: true
   International Journal of Computer Vision (**IJCV**), vol. 134, article no. 158, 2026.               
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02744-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260306&utm_content=10.1007%2Fs11263-026-02744-z)] [[arXiv](https://arxiv.org/abs/2409.02108v3)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
 
-- HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction                         
-  _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, and Jifeng Dai_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.            
+- HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction                            
+  _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, and Jifeng Dai_         
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                       
+
+- PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal
+  _ Zining Fang, Cheng Xue, Chunhui Liu, Bin Xu, Ming Chen, and **Xiaowei Hu**_
+  Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                                          
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           
   _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_                         
@@ -63,12 +67,12 @@ author_profile: true
 
 - Fast Image Super-Resolution via Consistency Rectified Flow  
   _Jiaqi Xu, Wenbo Li, Haoze Sun, Fan Li, Zhixin Wang, Long Peng, Jingjing Ren, Haoran Yang, **Xiaowei Hu**, Renjing Pei, and Pheng-Ann Heng_  
-  IEEE International Conference on Computer Vision (**ICCV**), pp. 11755-11765, 2025.                                 
+  IEEE/CVF International Conference on Computer Vision (**ICCV**), pp. 11755-11765, 2025.                                 
   [[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Xu_Fast_Image_Super-Resolution_via_Consistency_Rectified_Flow_ICCV_2025_paper.pdf)] 
   
 - EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights  
   _Zhenghao Xing^, Hao Chen^, Binzhu Xie, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 19098-19108, 2025.        
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 19098-19108, 2025.        
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html)] [[code](https://github.com/HarryHsing/EchoTraffic)]      
 
 - MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models  
@@ -171,27 +175,27 @@ author_profile: true
 
 - SILT: Shadow-Aware Iterative Label Tuning for Learning to Detect Shadows from Noisy Labels  
   _Han Yang^, Tianyu Wang^, **Xiaowei Hu\***, and Chi-Wing Fu_  
-  IEEE International Conference on Computer Vision (**ICCV**), pp. 12687-12698, 2023  
+  IEEE/CVF International Conference on Computer Vision (**ICCV**), pp. 12687-12698, 2023  
   [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_SILT_Shadow-Aware_Iterative_Label_Tuning_for_Learning_to_Detect_Shadows_ICCV_2023_paper.pdf)] [[arXiv](https://arxiv.org/abs/2308.12064)] [[code](https://github.com/Cralence/SILT)] [[SBU-Refine dataset](https://github.com/hanyangclarence/SILT/releases/tag/refined_sbu)]
 
 - Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions  
   _Yurui Zhu^, Tianyu Wang^, Xueyang Fu*, Xuanyu Yang, Xin Guo, Jifeng Dai, Yu Qiao, and **Xiaowei Hu\***_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 21747-21758, 2023  
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 21747-21758, 2023  
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.html)] [[code](https://github.com/zhuyr97/WGWS-Net)]
 
 - Video Dehazing via a Multi-Range Temporal Alignment Network with Physical Prior  
   _Jiaqi Xu, **Xiaowei Hu\***, Lei Zhu*, Qi Dou, Jifeng Dai, Yu Qiao, and Pheng-Ann Heng_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 18053-18062, 2023  
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 18053-18062, 2023  
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Video_Dehazing_via_a_Multi-Range_Temporal_Alignment_Network_With_Physical_CVPR_2023_paper.html)] [[arXiv](https://arxiv.org/abs/2303.09757)] [[code](https://github.com/jiaqixuac/MAP-Net)] [[HazeWorld dataset](https://github.com/jiaqixuac/MAP-Net/blob/main/docs/dataset_prepare.md)] [[report (zhihu)](https://zhuanlan.zhihu.com/p/621608857)]
 
 - Matching Is Not Enough: A Two-Stage Framework for Category-Agnostic Pose Estimation  
   _Min Shi, Zihao Huang, Xianzheng Ma, **Xiaowei Hu**, and Zhiguo Cao_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 7308-7317, 2023 (**<span style="color:#e0915c;">Highlight</span>**)           
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 7308-7317, 2023 (**<span style="color:#e0915c;">Highlight</span>**)           
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shi_Matching_Is_Not_Enough_A_Two-Stage_Framework_for_Category-Agnostic_Pose_CVPR_2023_paper.html)] [[code](https://github.com/flyinglynx/CapeFormer)]
 
 - InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions  
   _Wenhai Wang, Jifeng Dai, Zhe Chen, Zhenhang Huang, Zhiqi Li, Xizhou Zhu, **Xiaowei Hu**, Tong Lu, Lewei Lu, Hongsheng Li, Xiaogang Wang, and Yu Qiao_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 14408-14419, 2023 (**<span style="color:#e0915c;">Highlight</span>**)            
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 14408-14419, 2023 (**<span style="color:#e0915c;">Highlight</span>**)            
   [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_InternImage_Exploring_Large-Scale_Vision_Foundation_Models_With_Deformable_Convolutions_CVPR_2023_paper.html)] [[arXiv](https://arxiv.org/abs/2211.05778)] [[code](https://github.com/OpenGVLab/InternImage)] [[video](https://www.youtube.com/watch?v=_LEitBd5Tfs)]
 
 - IDRNet: Intervention-Driven Relation Network for Semantic Segmentation  
@@ -251,7 +255,7 @@ author_profile: true
 
 - Single-Stage Instance Shadow Detection with Bidirectional Relation Learning  
   _Tianyu Wang^, **Xiaowei Hu^***, Chi-Wing Fu, and Pheng-Ann Heng_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 1-11, 2021. (**<span style="color:#e0915c;">Oral</span>**)             
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 1-11, 2021. (**<span style="color:#e0915c;">Oral</span>**)             
   [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Single-Stage_Instance_Shadow_Detection_With_Bidirectional_Relation_Learning_CVPR_2021_paper.pdf)] [[supp.](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Wang_Single-Stage_Instance_Shadow_CVPR_2021_supplemental.pdf)] [[video](https://youtu.be/p0b_2SsFypw)] [[code](https://github.com/stevewongv/SSIS)] [[poster](https://xw-hu.github.io/paper_material/CVPR21_SSIS_poster.pdf)]
 
 - SAC-Net: Spatial Attenuation Context for Salient Object Detection  
@@ -294,7 +298,7 @@ author_profile: true
 
 - Instance Shadow Detection  
   _Tianyu Wang^, **Xiaowei Hu^**, Qiong Wang, Pheng-Ann Heng, and Chi-Wing Fu_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 1880-1889, 2020.  
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 1880-1889, 2020.  
   [[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Instance_Shadow_Detection_CVPR_2020_paper.pdf)] [[arXiv](https://arxiv.org/abs/1911.07034)] [[code](https://github.com/stevewongv/InstanceShadowDetection)] [[SOBA dataset](https://drive.google.com/drive/folders/1MKxyq3R6AUeyLai9i9XWzG2C_n5f0ppP)] [[results](https://drive.google.com/file/d/1VHP8qm_FZeKR6_zMtNt3SxvBTvfEK7I8/view)] [[video](https://crossminds.ai/video/instance-shadow-detection-5f6e7779d81cf36f1a8e32a8/)]
 
 - Saliency-Aware Texture Smoothing  
@@ -326,17 +330,17 @@ author_profile: true
 
 - Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data  
   _**Xiaowei Hu**, Yitong Jiang, Chi-Wing Fu, and Pheng-Ann Heng_  
-  IEEE International Conference on Computer Vision (**ICCV**), pp. 2472-2481, 2019.  
+  IEEE/CVF International Conference on Computer Vision (**ICCV**), pp. 2472-2481, 2019.  
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hu_Mask-ShadowGAN_Learning_to_Remove_Shadows_From_Unpaired_Data_ICCV_2019_paper.pdf)] [[arXiv](https://arxiv.org/abs/1903.10683)] [[code](https://github.com/xw-hu/Mask-ShadowGAN)] [[USR dataset](https://drive.google.com/open?id=1PPAX0W4eyfn1cUrb2aBefnbrmhB1htoJ)] [[poster](https://xw-hu.github.io/paper_material/ICCV19_MaskShadowGAN_poster.pdf)]
 
 - Deep Multi-Model Fusion for Single-Image Dehazing  
   _Zijun Deng, Lei Zhu, **Xiaowei Hu**, Chi-Wing Fu, Xuemiao Xu, Qing Zhang, Jing Qin, and Pheng-Ann Heng_  
-  IEEE International Conference on Computer Vision (**ICCV**), pp. 2453-2462, 2019.  
+  IEEE/CVF International Conference on Computer Vision (**ICCV**), pp. 2453-2462, 2019.  
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Deep_Multi-Model_Fusion_for_Single-Image_Dehazing_ICCV_2019_paper.pdf)] [[code](https://github.com/zijundeng/DM2F-Net)] [[results](https://drive.google.com/drive/folders/1ZVBI_3Y2NthVLeK7ODMIB5vRjmN9payF)]
 
 - Depth-Attentional Features for Single-Image Rain Removal  
   _**Xiaowei Hu**, Chi-Wing Fu, Lei Zhu, and Pheng-Ann Heng_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 8022-8031, 2019.  
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 8022-8031, 2019.  
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Depth-Attentional_Features_for_Single-Image_Rain_Removal_CVPR_2019_paper.pdf)] [[supp.](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Hu_Depth-Attentional_Features_for_CVPR_2019_supplemental.pdf)] [[code](https://github.com/xw-hu/DAF-Net)] [[RainCityscapes dataset](https://www.cityscapes-dataset.com/downloads/)] [[poster](https://xw-hu.github.io/paper_material/CVPR19_derain_poster.pdf)]
 
 - SINet: A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection  
@@ -369,7 +373,7 @@ author_profile: true
 
 - Direction-Aware Spatial Context Features for Shadow Detection  
   _**Xiaowei Hu**, Lei Zhu, Chi-Wing Fu, Jing Qin, and Pheng-Ann Heng_  
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 7454-7462, 2018. (**<span style="color:#e0915c;">Oral</span>**)                   
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 7454-7462, 2018. (**<span style="color:#e0915c;">Oral</span>**)                   
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Direction-Aware_Spatial_Context_CVPR_2018_paper.pdf)] [[arXiv](https://arxiv.org/abs/1712.04142)] [[supp.](https://xw-hu.github.io/paper_material/CVPR18_DSC_supp.pdf)] [[code](https://github.com/xw-hu/DSC)] [[results](https://drive.google.com/open?id=1DCTqEnYJ8ADBqShBzXFYKa_yD-YZKEo7)] [[poster](https://xw-hu.github.io/paper_material/CVPR18_DSC_poster.pdf)] [[slides](https://xw-hu.github.io/paper_material/CVPR18_DSC_slides.pdf)] [[video](https://www.youtube.com/watch?v=zVYY9HaEJnc&t=1195s)]
 
 - Recurrently Aggregating Deep Features for Salient Object Detection  

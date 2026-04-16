@@ -9,6 +9,8 @@ author_profile: true
 - Shengping Song (Ph.D. Student, admitted in 2026, South China University of Technology)
 - Hanchen Wang (Master’s Student, admitted in 2026, South China University of Technology)
 - Yanxu Zhu (Master’s Student, admitted in 2026, South China University of Technology)
+- Wanru Li (Master’s Student, admitted in 2026, South China University of Technology)
+- Minfei Wu (Master’s Student, admitted in 2026, South China University of Technology)           
   
 ## Previous Mentorship
 

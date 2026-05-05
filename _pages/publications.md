@@ -21,23 +21,24 @@ author_profile: true
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                       
 
 - PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal                          
-  _Zining Fang^, Cheng Xue^, Chunhui Liu, Bin Xu, Ming Chen, and **Xiaowei Hu**_                               
-  Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                                           
+  _Zining Fang^, Cheng Xue^, Chunhui Liu, Bin Xu, Ming Chen, and **Xiaowei Hu**_                                
+  Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                                  
+  [[arXiv](https://arxiv.org/abs/2603.22844)]                                                           
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           
   _Donghao Zhou, Jingyu Lin, Guibao Shen, Quande Liu, Jialin Gao, Lihao Liu, Lan Du, Cunjian Chen, Chi-Wing Fu, **Xiaowei Hu\***, and Pheng-Ann Heng_                         
   AAAI Conference on Artificial Intelligence (**AAAI**), pp. 13593-13601, 2026.                                  
-  [[arXiv](https://arxiv.org/abs/2512.23519)] [[project](https://correr-zhou.github.io/IdentityStory/)]                
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38365)] [[arXiv](https://arxiv.org/abs/2512.23519)] [[project](https://correr-zhou.github.io/IdentityStory/)]                
 
 - SurgPub-Video: A Comprehensive Surgical Video Dataset for Enhanced Surgical Intelligence in Vision-Language Model                   
   _Yaoqian Li^, Xikai Yang^, Dunyuan Xu^, Yang Yu, Litao Zhao, **Xiaowei Hu**, Jinpeng Li, and Pheng-Ann Heng_                                 
   AAAI Conference on Artificial Intelligence (**AAAI**), pp. 6628-6635, 2026.                  
-  [[arXiv](https://arxiv.org/abs/2508.10054)]                         
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37593)] [[arXiv](https://arxiv.org/abs/2508.10054)] [[dataset](https://github.com/Yaoqian-Li/SurgPub-Video)]                         
 
 - GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI       
   _Tianbin Li^, Yanzhou Su^, Wei Li, Bin Fu, Zhe Chen, Ziyan Huang, Guoan Wang, Chenglong Ma, Ying Chen, Ming Hu, Yanjun Li, Pengcheng Chen, Shixiang Tang, **Xiaowei Hu**, Zhongying Deng, Yuanfeng Ji, Jin Ye, Yu Qiao, and Junjun He_         
   AAAI Conference on Artificial Intelligence (**AAAI**), pp. 23177-23185, 2026.           
-  [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39485)] [[arXiv](https://arxiv.org/abs/2411.14522)] [[project](https://github.com/uni-medical/GMAI-VL)]
 
 - Moving Beyond Functional Connectivity: Time-Series Modeling for fMRI-Based Brain Disorder Classification                                     
   _Guoqi Yu, **Xiaowei Hu**, Angelica I. Aviles-Rivero, Anqi Qiu, and Shujun Wang_           

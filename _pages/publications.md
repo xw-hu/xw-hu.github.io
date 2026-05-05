@@ -42,7 +42,8 @@ author_profile: true
 
 - Moving Beyond Functional Connectivity: Time-Series Modeling for fMRI-Based Brain Disorder Classification                                     
   _Guoqi Yu, **Xiaowei Hu**, Angelica I. Aviles-Rivero, Anqi Qiu, and Shujun Wang_           
-  IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                      
+  IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.
+  [[paper](https://ieeexplore.ieee.org/document/11373628)]                                                 
 
 - Alloy Design Paradigms in Additive Manufacturing: A New Era of Material Innovation                   
   _Li Zhao, Tianshu Liu, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, **Xiaowei Hu**, and Chaolin Tan_   

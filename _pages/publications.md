@@ -43,7 +43,12 @@ author_profile: true
 - Moving Beyond Functional Connectivity: Time-Series Modeling for fMRI-Based Brain Disorder Classification                                     
   _Guoqi Yu, **Xiaowei Hu**, Angelica I. Aviles-Rivero, Anqi Qiu, and Shujun Wang_           
   IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                          
-  [[paper](https://ieeexplore.ieee.org/document/11373628)]                                                 
+  [[paper](https://ieeexplore.ieee.org/document/11373628)]
+
+- MedSegAgent: A Universal and Scalable Multi-Agent System for Instructive Medical Image Segmentation                                                                                  
+  _Ziyan Huang, Haoyu Wang, Jin Ye, Yuanfeng Ji, **Xiaowei Hu**, Lihao Liu, Zhikai Yang, Wei Li, Ming Hu, Yanzhou Su, Tianbin Li, Yun Gu, Shaoting Zhang, Yu Qiao, Lixu Gu, and Junjun He_                    
+  IEEE Journal of Biomedical and Health Informatics (**IEEE JBHI**), accepted, 2026.                                  
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11455620)]                                 
 
 - Alloy Design Paradigms in Additive Manufacturing: A New Era of Material Innovation                   
   _Li Zhao, Tianshu Liu, Hyoung Seop Kim, Tarasankar Debroy, Tomasz Kurzynowski, Konrad Gruber, **Xiaowei Hu**, and Chaolin Tan_   

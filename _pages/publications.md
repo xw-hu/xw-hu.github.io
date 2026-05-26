@@ -70,13 +70,13 @@ author_profile: true
 
 - Real-World Adverse Weather Image Restoration via Dual-Level Reinforcement Learning with High-Quality Cold Start                
   _Fuyang Liu, Jiaqi Xu, and **Xiaowei Hu\***_  
- Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.                       
- [[arXiv](https://arxiv.org/abs/2511.05095)]
+ Advances in Neural Information Processing Systems (**NeurIPS**), pp. 112525-112599, 2025.                       
+ [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/a3a7387e49f4de290c23beea2dfcdc75-Paper-Conference.pdf)] [[arXiv](https://arxiv.org/abs/2511.05095)]
 
 - SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency                
   _Quanjian Song^, Donghao Zhou^, Jingyu Lin^, Fei Shen, Jiaze Wang, **Xiaowei Hu\***, Cunjian Chen\*, and Pheng-Ann Heng_          
- Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2025.                        
- [[arXiv](https://arxiv.org/abs/2510.22994)] [[project](https://lulupig12138.github.io/SceneDecorator/)]
+ Advances in Neural Information Processing Systems (**NeurIPS**), pp. 65725-65748, 2025.                        
+ [[paper](https://proceedings.neurips.cc/paper_files/paper/2025/file/5eef668e502203f257488efe742e53f1-Paper-Conference.pdf)] [[arXiv](https://arxiv.org/abs/2510.22994)] [[project](https://lulupig12138.github.io/SceneDecorator/)]
 
 - Fast Image Super-Resolution via Consistency Rectified Flow  
   _Jiaqi Xu, Wenbo Li, Haoze Sun, Fan Li, Zhixin Wang, Long Peng, Jingjing Ren, Haoran Yang, **Xiaowei Hu**, Renjing Pei, and Pheng-Ann Heng_  

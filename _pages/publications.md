@@ -18,11 +18,12 @@ author_profile: true
 
 - HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction                            
   _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, and Jifeng Dai_         
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                       
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 8801-8812, 2026.
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_HAVE-Bench_Hierarchical_Audio-Visual_Evaluation_from_Perception_to_Interaction_CVPR_2026_paper.pdf)]                                                                             
 
 - PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal                          
   _Zining Fang^, Cheng Xue^, Chunhui Liu, Bin Xu, Ming Chen, and **Xiaowei Hu**_                                
-  Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                                  
+  Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), accepted, 2026.                                    
   [[arXiv](https://arxiv.org/abs/2603.22844)]                                                           
 
 - IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation                           

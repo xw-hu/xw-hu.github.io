@@ -35,5 +35,5 @@ If you are a student at SCUT and interested in doing research with me, please do
 
 # Academic Genealogy
 
-![Academic Genealogy](https://xw-hu.github.io/_pages/genealogy.png)
+![Academic Genealogy](https://xw-hu.github.io/_pages/genealogy.svg)
 

@@ -7,7 +7,7 @@ author_profile: true
 
 ## Chair
 - Session Chair, AAAI Conference on Artificial Intelligence (AAAI 2026)   
-- Senior Program Committee, AAAI Conference on Artificial Intelligence (AAAI 2026)
+- Senior Program Committee, AAAI Conference on Artificial Intelligence (AAAI 2026/2027)
 - Area Chair, Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)
 
 ## Conference Program Committee & Reviewer

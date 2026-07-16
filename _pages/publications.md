@@ -46,6 +46,10 @@ author_profile: true
   IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                          
   [[paper](https://ieeexplore.ieee.org/document/11373628)]
 
+  - Taming Arbitrary Modality Missingness and Imbalance: A Unified Graph-MoE Framework for Alzheimer's Disease Diagnosis                                          
+  _Guangqian Yang, Ye Du, **Xiaowei Hu**, Weiyang Shi, Mo Yang, Shujun Wang, and for the Alzheimer's Disease Neuroimaging Initiative_                
+  Medical Image Analysis (**MedIA**), accepted, 2026.             
+
 - MedSegAgent: A Universal and Scalable Multi-Agent System for Instructive Medical Image Segmentation                                                                                  
   _Ziyan Huang, Haoyu Wang, Jin Ye, Yuanfeng Ji, **Xiaowei Hu**, Lihao Liu, Zhikai Yang, Wei Li, Ming Hu, Yanzhou Su, Tianbin Li, Yun Gu, Shaoting Zhang, Yu Qiao, Lixu Gu, and Junjun He_                    
   IEEE Journal of Biomedical and Health Informatics (**IEEE JBHI**), accepted, 2026.                                  

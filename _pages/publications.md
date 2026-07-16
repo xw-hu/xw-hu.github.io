@@ -46,7 +46,7 @@ author_profile: true
   IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                          
   [[paper](https://ieeexplore.ieee.org/document/11373628)]
 
-  - Taming Arbitrary Modality Missingness and Imbalance: A Unified Graph-MoE Framework for Alzheimer's Disease Diagnosis                                          
+- Taming Arbitrary Modality Missingness and Imbalance: A Unified Graph-MoE Framework for Alzheimer's Disease Diagnosis                                          
   _Guangqian Yang, Ye Du, **Xiaowei Hu**, Weiyang Shi, Mo Yang, Shujun Wang, and for the Alzheimer's Disease Neuroimaging Initiative_                
   Medical Image Analysis (**MedIA**), accepted, 2026.             
 

@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-**Summary:** CVPR/ICCV/ECCV (17), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI/IJCV (4), IEEE Transactions (21).  
+**Summary:** CVPR/ICCV/ECCV (17), NeurIPS/ICML (5), AAAI/IJCAI/ACM MM (11), TPAMI/IJCV (4), IEEE Transactions (22).  
 <small>^ joint first authors; * corresponding author</small>
 
 
@@ -45,6 +45,11 @@ author_profile: true
   _Guoqi Yu, **Xiaowei Hu**, Angelica I. Aviles-Rivero, Anqi Qiu, and Shujun Wang_           
   IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                          
   [[paper](https://ieeexplore.ieee.org/document/11373628)]
+
+- MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models                                                         
+  _Qiao Yan, Yuchen Yuan, **Xiaowei Hu**, Yihan Wang, Jiaqi Xu, Xiwen Wu, Jinpeng Li, Chi-Wing Fu, and Pheng-Ann Heng_                          
+  IEEE Transactions on Medical Imaging (**IEEE TMI**), accepted, 2026.                            
+  [[paper](https://ieeexplore.ieee.org/document/11640506)]                                                              
 
 - Taming Arbitrary Modality Missingness and Imbalance: A Unified Graph-MoE Framework for Alzheimer's Disease Diagnosis                                          
   _Guangqian Yang, Ye Du, **Xiaowei Hu**, Weiyang Shi, Mo Yang, Shujun Wang, and for the Alzheimer's Disease Neuroimaging Initiative_                

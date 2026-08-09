@@ -23,6 +23,6 @@ author_profile: true
 - Weiyun Wang (Jul. 2022 – Feb. 2023, Research Intern at Shanghai AI Lab, PhD Student at Fudan)
 - [Zhenchao Jin](https://charlespikachu.github.io/) (May 2022 – Dec. 2022, Research Intern at Shanghai AI Lab, PhD Student at HKU)
 - Xuanyu Yang (Jul. 2022 – Dec. 2022, Research Intern at Shanghai AI Lab, Undergraduate Student at SJTU)
-- Yitong Jiang (Dec. 2018 – Mar. 2019, Undergraduate at CUHK, now PhD student at CUHK)
+- [Yitong Jiang](https://jiangyitong.github.io/) (Dec. 2018 – Mar. 2019, Undergraduate at CUHK, now PhD student at CUHK)
 - [Lihao Liu](https://lihaoliu-cambridge.github.io/) (Aug. 2017 – Feb. 2020, MPhil at CUHK, now Applied Scientist at Amazon, USA)
 

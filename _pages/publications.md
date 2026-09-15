@@ -31,7 +31,7 @@ author_profile: true
   AAAI Conference on Artificial Intelligence (**AAAI**), pp. 13593-13601, 2026.                                  
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38365)] [[arXiv](https://arxiv.org/abs/2512.23519)] [[project](https://correr-zhou.github.io/IdentityStory/)]                
 
-- SurgPub-Video: A Comprehensive Surgical Video Dataset for Enhanced Surgical Intelligence in Vision-Language Model                   
+- SurgPub-Video: A Comprehensive Surgical Video Framework for Enhanced Surgical Intelligence in Vision-Language Model                                    
   _Yaoqian Li^, Xikai Yang^, Dunyuan Xu^, Yang Yu, Litao Zhao, **Xiaowei Hu**, Jinpeng Li, and Pheng-Ann Heng_                                 
   AAAI Conference on Artificial Intelligence (**AAAI**), pp. 6628-6635, 2026.                  
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37593)] [[arXiv](https://arxiv.org/abs/2508.10054)] [[dataset](https://github.com/Yaoqian-Li/SurgPub-Video)]                         

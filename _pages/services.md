@@ -42,9 +42,9 @@ author_profile: true
 
 
 ## Academic and Professional Society Memberships
+- Research Associate (Honorary), The Chinese University of Hong Kong                                
 - 广东省青年科学家协会理事                   
 - 广东省图象图形学会青年工作委员会委员               
-- 中国图像图形学会会员                  
-- Member, IEEE              
+- 中国图像图形学会会员                        
 - Member, Computer Vision Foundation (CVF)         
 - Professional Member, China Computer Federation (CCF)              

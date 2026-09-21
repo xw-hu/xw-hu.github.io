@@ -11,7 +11,7 @@ author_profile: true
   Undergraduate Course, Spring 2026.      
 
  - **Comprehensive Design of Computer Science and Software Engineering**  
-  Undergraduate Course, Fall 2025.
+  Undergraduate Course, Fall 2025&2026.                  
   
 <!-- - **Multimodal Large Models and Intelligent Agents**  
   Undergraduate Course, Fall 2025.        

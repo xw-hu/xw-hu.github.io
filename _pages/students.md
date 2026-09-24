@@ -13,14 +13,14 @@ author_profile: true
 - Wanru Li (Master’s Student, Sep. 2026 - , SCUT)                 
 - Minfei Wu (Master’s Student, Sep. 2026 - , SCUT)
 
-<div style="text-align: center; margin: 2em 0 2.5em 0;">
+<div style="margin-top: 2em; margin-bottom: 2.5em; margin-left: 3em;">   
   <img src="/images/students2026.jpg"
        alt="Our first cohort"
-       style="width: 72%; max-width: 900px; border-radius: 4px;">
+       style="width: 72%; max-width: 900px; border-radius: 4px; display: block;">
   <div style="margin-top: 0.6em; font-size: 0.9em; color: #777;">
     Sep. 2026.
   </div>
-</div>    
+</div>                  
   
 ## Previous Mentorship
 

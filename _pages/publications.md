@@ -17,7 +17,7 @@ author_profile: true
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02744-z?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260306&utm_content=10.1007%2Fs11263-026-02744-z)] [[arXiv](https://arxiv.org/abs/2409.02108v3)] [[project](https://github.com/xw-hu/Unveiling-Deep-Shadows)] [[report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
 
 - MedZERO: Self-Evolving Agents for Open-Ended Medical Reasoning Through Controlled Knowledge Accumulation
-  _Xilin Dang, Weilin Ruan, Xue Yang, Jinghao Wang, **Xiaowei Hu^\***, Jinpeng Li^\*, Pheng-Ann Heng_
+  _Xilin Dang, Weilin Ruan, Xue Yang, Jinghao Wang, **Xiaowei Hu\***, Jinpeng Li*, Pheng-Ann Heng_
   Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2026.            
 
 - HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction                            

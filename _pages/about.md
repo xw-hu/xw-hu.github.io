@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Xiaowei Hu / Professor"
 excerpt: "Xiaowei Hu is a Professor at SCUT studying visual restoration and adaptive perception, multimodal understanding and controllable generation, and self-evolving agents."
 author_profile: true
 redirect_from:
@@ -8,42 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+
 I am a Professor at the [School of Future Technology](https://www2.scut.edu.cn/ft/), [South China University of Technology (SCUT)](https://www2.scut.edu.cn/gzic/). Before joining SCUT, I was a Research Scientist at the [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), supervised by Prof. [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) and Prof. [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), and my B.Eng. from [South China University of Technology (SCUT)](http://www.scut.edu.cn/new/).
 
-## Research
+My research focuses on visual and multimodal intelligence. My current interests include:
+- **Visual Perception and Restoration:** Restoring visual content and improving perception under adverse weather and complex illumination, with an emphasis on generalization to real-world conditions.
+- **Multimodal Understanding and Controllable Generation:** Learning across vision, language, and audio for multimodal understanding, and developing methods for fine-grained control and consistency in visual generation.
+- **Continual Adaptation and Self-Evolving Agents:** Studying how agents can autonomously generate tasks and training data, learn from interaction and feedback, and sustain improvement as tasks and environments change.
 
-My research focuses on **visual and multimodal learning in complex real-world environments**, from restoring degraded images and understanding scenes to controllable generation. My recent work also explores agents that accumulate knowledge and improve through feedback. My current research interests include:
-
-- **Visual Restoration and Adaptive Perception:** Image and video restoration under adverse weather and complex illumination, shadow understanding, and adaptation to real-world visual degradations.
-- **Multimodal Understanding and Controllable Generation:** Audio-visual and vision-language modeling for scene understanding, personalized image generation, and consistent visual storytelling.
-- **Self-Evolving Agents:** Task and data generation, knowledge accumulation, and learning from interaction and feedback, with current interests in visual reasoning and GUI interaction.
-
-I am also interested in how world models can support prediction and planning for visual agents.
 
 ## Selected Publications
 
-- **MedZERO** · NeurIPS 2026  
-  Self-evolving agents for open-ended medical reasoning through controlled knowledge accumulation.
+- MedZERO, NeurIPS 2026. Self-evolving agents for medical reasoning.
+- [Unveiling Deep Shadows](https://link.springer.com/article/10.1007/s11263-026-02744-z), IJCV 2026. A shadow survey and benchmark.
+- [Real-World Weather Restoration](https://arxiv.org/abs/2511.05095), NeurIPS 2025. Restoration with dual-level reinforcement learning.
+- [Demystify Transformers & Convolutions](https://arxiv.org/abs/2211.05781), IEEE TPAMI 2025. Controlled comparisons of visual architectures.
+- [EchoTraffic](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html), CVPR 2025. Audio-visual traffic anomaly understanding.
+- [MagicTailor](https://arxiv.org/abs/2410.13370), IJCAI 2025. Component-controllable image personalization.
+- [WResVLM](https://arxiv.org/abs/2409.02101), ECCV 2024. Vision-language-guided weather restoration.
 
-- **[Unveiling Deep Shadows](https://link.springer.com/article/10.1007/s11263-026-02744-z)** · IJCV 2026  
-  A survey and benchmark of image and video shadow detection, removal, and generation.
-
-- **[Real-World Adverse Weather Image Restoration](https://arxiv.org/abs/2511.05095)** · NeurIPS 2025  
-  Dual-level reinforcement learning and high-fidelity weather data for restoration and adaptation in real scenes.
-
-- **[Demystify Transformers & Convolutions](https://arxiv.org/abs/2211.05781)** · IEEE TPAMI 2025  
-  Disentangling the effects of attention, convolution, and architectural design through controlled comparisons.
-
-- **[EchoTraffic](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html)** · CVPR 2025  
-  Combining audio and video to understand traffic anomalies.
-
-- **[MagicTailor](https://arxiv.org/abs/2410.13370)** · IJCAI 2025  
-  Component-controllable personalization for customizing visual concepts in text-to-image generation.
-
-- **[WResVLM: Real-World Adverse Weather Restoration](https://arxiv.org/abs/2409.02101)** · ECCV 2024  
-  Using vision-language models to guide restoration through image-quality and semantic supervision.
-
-I also contributed to **[InternImage](https://arxiv.org/abs/2211.05778)** (CVPR 2023, Highlight), a large-scale vision foundation model based on deformable convolutions.
+I also contributed to [InternImage](https://arxiv.org/abs/2211.05778), CVPR 2023 (Highlight). A large-scale vision foundation model based on deformable convolutions.
 
 [View all publications →](/publications/)
 
@@ -74,16 +58,17 @@ We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Resear
 
 </details>
 
-
 ## Our Team
 
-<figure style="margin: 1em 0;">
+<figure style="display: block; margin: 1em 0; text-align: center;">
   <img src="/images/students2026.jpg"
        alt="Xiaowei Hu and the first cohort of graduate students at SCUT, September 2026"
        loading="lazy"
        decoding="async"
-       style="width: 100%; max-width: 720px; height: auto; border-radius: 4px;">
-  <figcaption>Our first cohort at SCUT · September 2026.</figcaption>
+       style="display: block; width: 72%; max-width: 520px; height: auto; margin: 0 auto; border-radius: 4px;">
+  <figcaption style="margin-top: 0.5em;">
+    Our first cohort at SCUT · September 2026.
+  </figcaption>
 </figure>
 
 [Meet the students →](/students/)

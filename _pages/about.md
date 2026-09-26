@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Xiaowei Hu is a Professor at SCUT studying visual restoration and adaptive perception, vision and multimodal foundation models, and self-evolving agents."
+excerpt: "Xiaowei Hu is a Professor at SCUT studying visual restoration and adaptive perception, multimodal understanding and controllable generation, and self-evolving agents."
 author_profile: true
 redirect_from:
   - /about/
@@ -51,7 +51,7 @@ I also contributed to **[InternImage](https://arxiv.org/abs/2211.05778)** (CVPR 
 
 We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Research Assistants, and Interns** in these directions. Please send your CV and transcripts to [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn). SCUT students interested in research are also welcome to get in touch.
 
-我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括视觉复原与自适应感知、视觉与多模态基础模型、自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
+我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括视觉复原与自适应感知、多模态理解与可控生成、自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
 
 ## News
 
@@ -70,7 +70,7 @@ We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Resear
 - [12/2024] One paper accepted to IEEE TPAMI: Demystify Transformers & Convolutions.
 - [09/2024] One paper accepted to IEEE TIP: Video Instance Shadow Detection Under the Sun and Sky.
 - [07/2024] One paper accepted to ECCV 2024: WResVLM, on vision-language-guided weather restoration.
-- [12/2023] 河北广播电视台、河北科学技术馆联合报道：[胡枭玮：科学研究·兴趣是最好的老师](https://web.cmc.hebtv.com/cms/rmt0336_html/0/0rmhlm/qy/kjpd/xy/11335045.shtml?share=true)。
+- [12/2023] 河北广播电视台、河北科学技术馆联合报道：[胡枭玮：科学研究·兴趣是最好的老师](https://web.cmc.hebtv.com/cms/rmt0336_html/0/0rmhlm/qy/kjpd/xy/11335045.shtml?share=true)
 
 </details>
 

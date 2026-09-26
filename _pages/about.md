@@ -16,13 +16,13 @@ My research focuses on computer vision and multimodal intelligence. My current i
 
 ## Selected Publications
 
-- MedZERO, NeurIPS 2026. Self-evolving agents for medical reasoning.
-- [Unveiling Deep Shadows](https://link.springer.com/article/10.1007/s11263-026-02744-z), IJCV 2026. A shadow survey and benchmark.
-- [Real-World Weather Restoration](https://arxiv.org/abs/2511.05095), NeurIPS 2025. Restoration with dual-level reinforcement learning.
-- [Demystify Transformers & Convolutions](https://arxiv.org/abs/2211.05781), IEEE TPAMI 2025. Controlled comparisons of visual architectures.
-- [EchoTraffic](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html), CVPR 2025. Audio-visual traffic anomaly understanding.
-- [MagicTailor](https://arxiv.org/abs/2410.13370), IJCAI 2025. Component-controllable image personalization.
-- [WResVLM](https://arxiv.org/abs/2409.02101), ECCV 2024. Vision-language-guided weather restoration.
+[1] MedZERO, NeurIPS 2026. Self-evolving agents for medical reasoning.                          
+[2] [Unveiling Deep Shadows](https://link.springer.com/article/10.1007/s11263-026-02744-z), IJCV 2026. A shadow survey and benchmark.                          
+[3] [Real-World Weather Restoration](https://arxiv.org/abs/2511.05095), NeurIPS 2025. Restoration with dual-level reinforcement learning.                        
+[4] [Demystify Transformers & Convolutions](https://arxiv.org/abs/2211.05781), IEEE TPAMI 2025. Controlled comparisons of visual architectures.                           
+[5] [EchoTraffic](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html), CVPR 2025. Audio-visual traffic anomaly understanding.           
+[6] [MagicTailor](https://arxiv.org/abs/2410.13370), IJCAI 2025. Component-controllable image personalization.               
+[7] [WResVLM](https://arxiv.org/abs/2409.02101), ECCV 2024. Vision-language-guided weather restoration.                
 
 I also contributed to [InternImage](https://arxiv.org/abs/2211.05778), a large-scale vision foundation model based on deformable convolutions (CVPR 2023, Highlight).
 
@@ -36,22 +36,22 @@ We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Resear
 
 ## News
 
-- [09/2026] One paper accepted to NeurIPS 2026: MedZERO, on self-evolving medical reasoning agents. Congrats to Xilin!
-- [03/2026] Unveiling Deep Shadows, our shadow survey and benchmark, published in IJCV. [[Report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
-- [11/2025] Three papers accepted to AAAI 2026: IdentityStory on visual storytelling, SurgPub-Video on surgical video understanding, and GMAI-VL on medical vision-language modeling.
-- [09/2025] Included in the [World’s Top 2% Scientists list by Stanford University](https://topresearcherslist.com/Home/Profile/845511) for 2022–2025.
-- [09/2025] Two papers accepted to NeurIPS 2025: reinforcement learning for weather restoration and SceneDecorator for scene-consistent storytelling. Congrats to Fuyang and Donghao!
+[09/2026] One paper accepted to NeurIPS 2026: MedZERO, on self-evolving medical reasoning agents. Congrats to Xilin!                        
+[03/2026] Unveiling Deep Shadows, our shadow survey and benchmark, published in IJCV. [[Report](https://blog.csdn.net/moxibingdao/article/details/141980315)]               
+[11/2025] Three papers accepted to AAAI 2026: IdentityStory on visual storytelling, SurgPub-Video on surgical video understanding, and GMAI-VL on medical vision-language modeling.                  
+[09/2025] Included in the [World’s Top 2% Scientists list by Stanford University](https://topresearcherslist.com/Home/Profile/845511) for 2022–2025.                     
+[09/2025] Two papers accepted to NeurIPS 2025: reinforcement learning for weather restoration and SceneDecorator for scene-consistent storytelling. Congrats to Fuyang and Donghao!                 
 
 <details markdown="1">
 <summary>Earlier news</summary>
 
-- [06/2025] One paper accepted to ICCV 2025: Fast Image Super-Resolution via Consistency Rectified Flow. Congrats to Jiaqi!
-- [04/2025] Two papers accepted: physics-informed weather restoration to IEEE TCSVT, and MagicTailor for controllable personalization to IJCAI 2025.
-- [02/2025] One paper accepted to CVPR 2025: EchoTraffic, on audio-visual traffic anomaly understanding.
-- [12/2024] One paper accepted to IEEE TPAMI: Demystify Transformers & Convolutions.
-- [09/2024] One paper accepted to IEEE TIP: Video Instance Shadow Detection Under the Sun and Sky.
-- [07/2024] One paper accepted to ECCV 2024: WResVLM, on vision-language-guided weather restoration.
-- [12/2023] 河北广播电视台、河北科学技术馆联合报道：[胡枭玮：科学研究·兴趣是最好的老师](https://web.cmc.hebtv.com/cms/rmt0336_html/0/0rmhlm/qy/kjpd/xy/11335045.shtml?share=true)
+[06/2025] One paper accepted to ICCV 2025: Fast Image Super-Resolution via Consistency Rectified Flow. Congrats to Jiaqi!                                                
+[04/2025] Two papers accepted: physics-informed weather restoration to IEEE TCSVT, and MagicTailor for controllable personalization to IJCAI 2025.                                        
+[02/2025] One paper accepted to CVPR 2025: EchoTraffic, on audio-visual traffic anomaly understanding.                                              
+[12/2024] One paper accepted to IEEE TPAMI: Demystify Transformers & Convolutions.                                 
+[09/2024] One paper accepted to IEEE TIP: Video Instance Shadow Detection Under the Sun and Sky.                             
+[07/2024] One paper accepted to ECCV 2024: WResVLM, on vision-language-guided weather restoration.                                
+[12/2023] 河北广播电视台、河北科学技术馆联合报道：[胡枭玮：科学研究·兴趣是最好的老师](https://web.cmc.hebtv.com/cms/rmt0336_html/0/0rmhlm/qy/kjpd/xy/11335045.shtml?share=true)                                
 
 </details>
 

@@ -123,7 +123,7 @@ author_profile: true
   Biocybernetics and Biomedical Engineering, vol. 45, pp. 1-10, 2025.   
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0208521624000846)]
 
-- Multi-Scale Contextual Learning for Medical Image Segmentation via Dual Distillationn  
+- Multi-Scale Contextual Learning for Medical Image Segmentation via Dual Distillation  
   _Ruize Cui, Lanqing Liu, Youyi Song, Ge Ren, **Xiaowei Hu\***, and Jing Qin_  
   Medical Physics, vol. 52, no. 2, pp. 787-800, 2025.  
   [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17506)]

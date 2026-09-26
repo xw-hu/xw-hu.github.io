@@ -56,13 +56,12 @@ We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Resear
 </details>
 
 ## Our Team
-
-<figure style="display: block; margin: 1em 0; text-align: center;">
+<figure style="display: block; margin: 1em 0; text-align: left;">
   <img src="/images/students2026.jpg"
        alt="Xiaowei Hu and the first cohort of graduate students at SCUT, September 2026"
        loading="lazy"
        decoding="async"
-       style="display: block; width: 72%; max-width: 520px; height: auto; margin: 0 auto; border-radius: 4px;">
+       style="display: block; width: 72%; max-width: 520px; height: auto; margin: 0; border-radius: 4px;">
   <figcaption style="margin-top: 0.5em;">
     Our first cohort at SCUT · September 2026.
   </figcaption>

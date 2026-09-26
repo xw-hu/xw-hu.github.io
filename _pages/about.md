@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Xiaowei Hu / Professor"
-excerpt: "Xiaowei Hu is a Professor at SCUT studying visual restoration and adaptive perception, multimodal understanding and controllable generation, and self-evolving agents."
+excerpt: "Xiaowei Hu is a Professor at SCUT working on visual perception and restoration, multimodal understanding and controllable generation, and self-evolving agents."
 author_profile: true
 redirect_from:
   - /about/
@@ -27,7 +27,7 @@ My research focuses on computer vision and multimodal intelligence. My current i
 - [MagicTailor](https://arxiv.org/abs/2410.13370), IJCAI 2025. Component-controllable image personalization.
 - [WResVLM](https://arxiv.org/abs/2409.02101), ECCV 2024. Vision-language-guided weather restoration.
 
-I also contributed to [InternImage](https://arxiv.org/abs/2211.05778), CVPR 2023 (Highlight). A large-scale vision foundation model based on deformable convolutions.
+I also contributed to [InternImage](https://arxiv.org/abs/2211.05778), a large-scale vision foundation model based on deformable convolutions (CVPR 2023, Highlight).
 
 [View all publications →](/publications/)
 
@@ -35,7 +35,7 @@ I also contributed to [InternImage](https://arxiv.org/abs/2211.05778), CVPR 2023
 
 We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Research Assistants, and Interns** in these directions. Please send your CV and transcripts to [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn). SCUT students interested in research are also welcome to get in touch.
 
-我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括视觉复原与自适应感知、多模态理解与可控生成、自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
+我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括视觉感知与复原、多模态理解与可控生成、持续适应与自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
 
 ## News
 

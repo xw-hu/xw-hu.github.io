@@ -1,24 +1,26 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Xiaowei Hu is a Professor at SCUT working on visual restoration and perception, multimodal foundation models and reasoning, and self-evolving agents."
+excerpt: "Xiaowei Hu is a Professor at SCUT studying visual restoration and adaptive perception, vision and multimodal foundation models, and self-evolving agents."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Professor at the School of Future Technology, [South China University of Technology (SCUT)](https://www2.scut.edu.cn/gzic/). Previously, I was a Research Scientist at the [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), supervised by Prof. Pheng-Ann Heng and Prof. Chi-Wing Fu, and my B.Eng. from SCUT.
+I am a Professor at the [School of Future Technology](https://www2.scut.edu.cn/ft/), [South China University of Technology (SCUT)](https://www2.scut.edu.cn/gzic/). Before joining SCUT, I was a Research Scientist at the [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), supervised by Prof. [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) and Prof. [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), and my B.Eng. from [South China University of Technology (SCUT)](http://www.scut.edu.cn/new/).
 
 [Google Scholar](https://scholar.google.com/citations?user=tUb4J0kAAAAJ&hl=en) · [GitHub](https://github.com/xw-hu) · [ORCID](https://orcid.org/0000-0002-5708-7018) · [Email](mailto:huxiaowei@scut.edu.cn)
 
 ## Research
 
-My research focuses on **visual and multimodal intelligence** that can perceive, reason, and adapt to complex real-world environments. My current work spans three connected directions:
+My research focuses on **visual and multimodal intelligence in complex real-world environments**. Building on work in visual restoration, foundation models, and audio-visual understanding, I am exploring systems that adapt through interaction and feedback. My current research interests include:
 
-- **Visual Restoration and Perception:** Image and video restoration, shadow understanding, and adaptive perception under adverse weather and complex illumination.
-- **Multimodal Foundation Models and Reasoning:** Architectures and learning methods for vision and multimodal foundation models, with applications to understanding, reasoning, and generation.
-- **Self-Evolving Agents:** Agents that construct tasks, learn from interaction and feedback, and continually improve their perception and reasoning capabilities.
+- **Visual Restoration and Adaptive Perception:** Image and video restoration under adverse weather and complex illumination, shadow understanding, and learning to generalize and adapt to real-world visual degradations.
+- **Vision and Multimodal Foundation Models:** Visual architectures, vision-language models, and audio-visual models for understanding, reasoning, and controllable generation.
+- **Self-Evolving Agents:** Autonomous task and data generation, learning from interaction and feedback, and continual adaptation, particularly for visual reasoning and GUI interaction.
+
+I am also interested in world models for prediction and planning in changing visual environments.
 
 ## Selected Research
 
@@ -29,24 +31,26 @@ My research focuses on **visual and multimodal intelligence** that can perceive,
   A unified survey and benchmark of image and video shadow detection, removal, and generation. [Project](https://github.com/xw-hu/Unveiling-Deep-Shadows)
 
 - **[Real-World Adverse Weather Image Restoration](https://arxiv.org/abs/2511.05095)** · NeurIPS 2025  
-  Dual-level reinforcement learning with a high-quality cold start for real-world image restoration.
-
-- **[EchoTraffic](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html)** · CVPR 2025  
-  Enhancing traffic anomaly understanding with audio-visual insights. [Code](https://github.com/HarryHsing/EchoTraffic)
+  Dual-level reinforcement learning and high-fidelity weather data for restoration and adaptation in real scenes.
 
 - **[Demystify Transformers & Convolutions](https://arxiv.org/abs/2211.05781)** · IEEE TPAMI 2025  
-  Investigating the roles of Transformers and convolutions in modern image deep networks. [Code](https://github.com/OpenGVLab/STM-Evaluation)
+  Understanding the contributions of attention and convolution through controlled comparisons in a unified visual architecture. [Code](https://github.com/OpenGVLab/STM-Evaluation)
 
-- **[InternImage](https://arxiv.org/abs/2211.05778)** · CVPR 2023, **Highlight**  
-  Large-scale vision foundation models with deformable convolutions. [Code](https://github.com/OpenGVLab/InternImage)
+- **[EchoTraffic](https://openaccess.thecvf.com/content/CVPR2025/html/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.html)** · CVPR 2025  
+  Combining audio and video to understand traffic anomalies. [Code](https://github.com/HarryHsing/EchoTraffic)
+
+- **[WResVLM: Real-World Adverse Weather Restoration](https://arxiv.org/abs/2409.02101)** · ECCV 2024  
+  Using vision-language models to guide restoration on real images through image-quality and semantic supervision. [Code](https://github.com/jiaqixuac/WResVLM)
+
+I also contributed to **[InternImage](https://arxiv.org/abs/2211.05778)** (CVPR 2023, **Highlight**), a large-scale vision foundation model based on deformable convolutions. [Code](https://github.com/OpenGVLab/InternImage)
 
 [View all publications →](/publications/)
 
 ## Openings
 
-We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Research Assistants, and Interns** in the above areas. Please send your CV and transcripts to [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn). SCUT students interested in research are also welcome to get in touch.
+We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Research Assistants, and Interns** in these directions. Please send your CV and transcripts to [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn). SCUT students interested in research are also welcome to get in touch.
 
-我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括视觉复原与感知、多模态基础模型与推理、自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
+我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括视觉复原与自适应感知、视觉与多模态基础模型、自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
 
 ## News
 

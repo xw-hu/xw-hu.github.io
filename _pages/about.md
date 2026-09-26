@@ -1,34 +1,32 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Xiaowei Hu is a Professor at SCUT working on computer vision, multimodal foundation models, and self-evolving agents."
+excerpt: "Xiaowei Hu is a Professor at SCUT working on visual restoration and perception, multimodal foundation models and reasoning, and self-evolving agents."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Professor at the [School of Future Technology](https://www2.scut.edu.cn/ft/), [South China University of Technology (SCUT)](https://www2.scut.edu.cn/gzic/). Previously, I was a Research Scientist at the [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), supervised by Prof. [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) and Prof. [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), and my B.Eng. from [SCUT](http://www.scut.edu.cn/new/).
+I am a Professor at the [School of Future Technology, South China University of Technology (SCUT)](https://www2.scut.edu.cn/ft/). Previously, I was a Research Scientist at the [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), supervised by Prof. [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) and Prof. [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), and my B.Eng. from SCUT.
 
 [Google Scholar](https://scholar.google.com/citations?user=tUb4J0kAAAAJ&hl=en) · [GitHub](https://github.com/xw-hu) · [ORCID](https://orcid.org/0000-0002-5708-7018) · [Email](mailto:huxiaowei@scut.edu.cn)
 
 ## Research
 
-My research focuses on **adaptive visual and multimodal intelligence**, with the goal of enabling models and agents to perceive, reason, and continually improve in complex real-world environments. My current work spans three connected directions:
+My research focuses on **visual and multimodal intelligence** that can perceive, reason, and adapt to complex real-world environments. My current work spans three connected directions:
 
-- **Computer Vision:** Image restoration and perception under adverse weather, complex illumination, and changing real-world conditions.
-- **Multimodal Perception and Reasoning:** Vision-language and audio-visual foundation models for efficient learning, robust understanding, and generation.
-- **Self-Evolving Agents:** Task generation, learning from interaction and feedback, and continual adaptation of perception and reasoning agents.
-
-Applications include traffic understanding and medical AI.
+- **Visual Restoration and Perception:** Image and video restoration, shadow understanding, and adaptive perception under adverse weather and complex illumination.
+- **Multimodal Foundation Models and Reasoning:** Architectures and learning methods for vision and multimodal foundation models, with applications to understanding, reasoning, and generation.
+- **Self-Evolving Agents:** Agents that construct tasks, learn from interaction and feedback, and continually improve their perception and reasoning capabilities.
 
 ## Selected Research
 
 - **MedZERO** · NeurIPS 2026  
   Self-evolving agents for open-ended medical reasoning through controlled knowledge accumulation.
 
-- **[HAVE-Bench](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhong_HAVE-Bench_Hierarchical_Audio-Visual_Evaluation_from_Perception_to_Interaction_CVPR_2026_paper.pdf)** · CVPR 2026  
-  Hierarchical audio-visual evaluation from perception to interaction.
+- **[Unveiling Deep Shadows](https://link.springer.com/article/10.1007/s11263-026-02744-z)** · IJCV 2026  
+  A unified survey and benchmark of image and video shadow detection, removal, and generation. [Project](https://github.com/xw-hu/Unveiling-Deep-Shadows)
 
 - **[Real-World Adverse Weather Image Restoration](https://arxiv.org/abs/2511.05095)** · NeurIPS 2025  
   Dual-level reinforcement learning with a high-quality cold start for real-world image restoration.
@@ -48,11 +46,12 @@ Applications include traffic understanding and medical AI.
 
 We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Research Assistants, and Interns** in the above areas. Please send your CV and transcripts to [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn). SCUT students interested in research are also welcome to get in touch.
 
-我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括计算机视觉、多模态智能与自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
+我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括视觉复原与感知、多模态基础模型与推理、自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
 
 ## News
 
 - **[09/2026]** MedZERO accepted to **NeurIPS 2026**. Congratulations to Xilin!
+- **[03/2026]** [Unveiling Deep Shadows](https://link.springer.com/article/10.1007/s11263-026-02744-z), our survey and benchmark of shadow detection, removal, and generation, published in **IJCV**.
 - **[11/2025]** Three papers accepted to **AAAI 2026**.
 - **[09/2025]** Included in the [World's Top 2% Scientists list by Stanford University](https://topresearcherslist.com/Home/Profile/845511).
 - **[09/2025]** Two papers accepted to **NeurIPS 2025**. Congratulations to Fuyang and Donghao!
@@ -65,7 +64,7 @@ We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Resear
 
 - **[12/2024]** One paper accepted to **IEEE TPAMI**.
 - **[09/2024]** One paper accepted to **IEEE TIP**.
-- **[09/2024]** Our survey, *Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era*, is publicly available. [Paper](/publications/) · [Report](https://blog.csdn.net/moxibingdao/article/details/141980315)
+- **[09/2024]** Our survey, *Unveiling Deep Shadows: A Survey and Benchmark on Image and Video Shadow Detection, Removal, and Generation in the Deep Learning Era*, is publicly available. [Paper](https://arxiv.org/abs/2409.02108) · [Report](https://blog.csdn.net/moxibingdao/article/details/141980315)
 - **[07/2024]** One paper accepted to **ECCV 2024**.
 
 </details>

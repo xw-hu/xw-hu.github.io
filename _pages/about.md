@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor at the [School of Future Technology, South China University of Technology (SCUT)](https://www2.scut.edu.cn/ft/). Previously, I was a Research Scientist at the [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), supervised by Prof. [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng) and Prof. [Chi-Wing Fu](https://www.cse.cuhk.edu.hk/~cwfu/), and my B.Eng. from SCUT.
+I am a Professor at the School of Future Technology, [South China University of Technology (SCUT)](https://www2.scut.edu.cn/gzic/). Previously, I was a Research Scientist at the [Shanghai Artificial Intelligence Laboratory](http://www.shlab.org.cn/). I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/), supervised by Prof. Pheng-Ann Heng and Prof. Chi-Wing Fu, and my B.Eng. from SCUT.
 
 [Google Scholar](https://scholar.google.com/citations?user=tUb4J0kAAAAJ&hl=en) · [GitHub](https://github.com/xw-hu) · [ORCID](https://orcid.org/0000-0002-5708-7018) · [Email](mailto:huxiaowei@scut.edu.cn)
 

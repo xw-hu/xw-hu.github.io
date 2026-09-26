@@ -31,7 +31,7 @@ I also contributed to [InternImage](https://arxiv.org/abs/2211.05778), CVPR 2023
 
 [View all publications →](/publications/)
 
-## Openings
+## <span style="color: red;">Openings</span>
 
 We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Research Assistants, and Interns** in these directions. Please send your CV and transcripts to [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn). SCUT students interested in research are also welcome to get in touch.
 

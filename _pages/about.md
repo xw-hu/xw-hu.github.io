@@ -43,7 +43,7 @@ I am also interested in how world models can support prediction and planning for
 - **[WResVLM: Real-World Adverse Weather Restoration](https://arxiv.org/abs/2409.02101)** · ECCV 2024  
   Using vision-language models to guide restoration through image-quality and semantic supervision.
 
-I also contributed to **[InternImage](https://arxiv.org/abs/2211.05778)** (CVPR 2023, **Highlight**), a large-scale vision foundation model based on deformable convolutions.
+I also contributed to **[InternImage](https://arxiv.org/abs/2211.05778)** (CVPR 2023, Highlight), a large-scale vision foundation model based on deformable convolutions.
 
 [View all publications →](/publications/)
 
@@ -56,7 +56,7 @@ We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Resear
 ## News
 
 - [09/2026] One paper accepted to NeurIPS 2026: MedZERO, on self-evolving medical reasoning agents. Congrats to Xilin!
-- [03/2026] Unveiling Deep Shadows, our shadow survey and benchmark, published in IJCV. [Report](https://blog.csdn.net/moxibingdao/article/details/141980315)
+- [03/2026] Unveiling Deep Shadows, our shadow survey and benchmark, published in IJCV. [[Report](https://blog.csdn.net/moxibingdao/article/details/141980315)]
 - [11/2025] Three papers accepted to AAAI 2026: IdentityStory on visual storytelling, SurgPub-Video on surgical video understanding, and GMAI-VL on medical vision-language modeling.
 - [09/2025] Included in the [World’s Top 2% Scientists list by Stanford University](https://topresearcherslist.com/Home/Profile/845511) for 2022–2025.
 - [09/2025] Two papers accepted to NeurIPS 2025: reinforcement learning for weather restoration and SceneDecorator for scene-consistent storytelling. Congrats to Fuyang and Donghao!

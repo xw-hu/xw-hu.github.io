@@ -17,7 +17,7 @@ author:
   avatar           : "xiaowei.jpg"
   name             : "Xiaowei Hu / 胡枭玮"
   bio              : "Professor at School of Future Technology, South China University of Technology"
-  location         : "B1c-411, SCUT-GZIC, Guangzhou, China"
+  location         : "B1c-411, SCUT-GZIC, GZ, CN"
   employer         : 
   email            : "huxiaowei@scut.edu.cn"
 
@@ -167,6 +167,31 @@ exclude:
   - tmp
   - vendor
 
+  # Template blog posts
+  - _posts/2012-08-14-blog-post-1.md
+  - _posts/2013-08-14-blog-post-2.md
+  - _posts/2014-08-14-blog-post-3.md
+  - _posts/2015-08-14-blog-post-4.md
+  - _posts/2199-01-01-future-post.md
+
+  # Template portfolio items
+  - _portfolio/portfolio-1.md
+  - _portfolio/portfolio-2.html
+
+  # Template demonstration and archive pages
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/terms.md
+
+  # Development utilities
+  - markdown_generator
+  - talkmap.ipynb
+  - talkmap.py
+
 keep_files:
   - .git
   - .svn
@@ -297,5 +322,4 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
-
+    envs: development    

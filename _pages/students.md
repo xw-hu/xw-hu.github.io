@@ -6,12 +6,12 @@ author_profile: true
 ---
 ## Current Students
 
-- Shengping Song (Ph.D. Student, Sep. 2026 - , SCUT)                     
-- Yuting Hong (Ph.D. Student, Sep. 2026 - , SCUT)                  
-- Hanchen Wang (Master’s Student, Sep. 2026 - , SCUT)                  
-- Yanxu Zhu (Master’s Student, Sep. 2026 - , SCUT)                     
-- Wanru Li (Master’s Student, Sep. 2026 - , SCUT)                 
-- Minfei Wu (Master’s Student, Sep. 2026 - , SCUT)
+- Shengping Song (Ph.D. Student, SCUT, Sep. 2026-present)                       
+- Yuting Hong (Ph.D. Student, SCUT, Sep. 2026-present)                     
+- Hanchen Wang (Master’s Student, SCUT, Sep. 2026-present)                     
+- Yanxu Zhu (Master’s Student, SCUT, Sep. 2026-present)                        
+- Wanru Li (Master’s Student, SCUT, Sep. 2026-present)                       
+- Minfei Wu (Master’s Student, SCUT, Sep. 2026-present)                
 
 <!-- <div style="margin-top: 2em; margin-bottom: 2.5em; margin-left: 2em;">   
   <img src="/images/students2026.jpg"

@@ -41,7 +41,7 @@ author_profile: true
 - IEEE Computer Graphics and Applications (CG&A)        
 
 
-## Academic and Professional Society Memberships
+## Academic Affiliations and Professional Memberships
 - Research Associate (Honorary), The Chinese University of Hong Kong                                
 - 广东省青年科学家协会理事                   
 - 广东省图象图形学会青年工作委员会委员               

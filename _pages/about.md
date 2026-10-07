@@ -16,7 +16,7 @@ My research focuses on computer vision and multimodal intelligence. My current i
 
 ## Selected Publications
 
-[1] MedZERO, NeurIPS 2026. Self-evolving agents for medical reasoning.                          
+[1] [MedZERO](https://arxiv.org/abs/2610.08327), NeurIPS 2026. Self-evolving agents for medical reasoning.                          
 [2] [Unveiling Deep Shadows](https://link.springer.com/article/10.1007/s11263-026-02744-z), IJCV 2026. A shadow survey and benchmark.                          
 [3] [Real-World Weather Restoration](https://arxiv.org/abs/2511.05095), NeurIPS 2025. Restoration with dual-level reinforcement learning.                        
 [4] [Demystify Transformers & Convolutions](https://arxiv.org/abs/2211.05781), IEEE TPAMI 2025. Controlled comparisons of visual architectures.                           

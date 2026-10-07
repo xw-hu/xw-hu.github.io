@@ -18,7 +18,8 @@ author_profile: true
 
 - MedZERO: Self-Evolving Agents for Open-Ended Medical Reasoning Through Controlled Knowledge Accumulation                                     
   _Xilin Dang, Weilin Ruan, Xue Yang, Jinghao Wang, **Xiaowei Hu\***, Jinpeng Li*, and Pheng-Ann Heng_                                 
-  Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2026.                                  
+  Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2026.
+  [[arXiv](https://arxiv.org/abs/2610.08327)]                                                         
 
 - HAVE-Bench: Hierarchical Audio-Visual Evaluation from Perception to Interaction                            
   _Muyan Zhong, Erfei Cui, Sen Xing, Weiyun Wang, Wen Wu, Yuchen Hu, Yanting Zhang, **Xiaowei Hu**, Wenhai Wang, Chao Zhang, and Jifeng Dai_         

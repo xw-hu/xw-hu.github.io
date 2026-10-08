@@ -5,15 +5,15 @@ permalink: /honors/
 author_profile: true
 ---
 
-- [**World’s Top 2% Scientists by Stanford University**](https://xw-hu.github.io/_pages/Top2.pdf) <span style="float:right; color:gray; font-size:0.9em;">2022–2025</span>
-- [**Achieved Excellence in the Hong Kong Young Scientist Award**](https://xw-hu.github.io/_pages/2021YSA.png) <span style="float:right; color:gray; font-size:0.9em;">2021</span>
-- **CVPR Doctoral Consortium Award** (31 awardees globally) <span style="float:right; color:gray; font-size:0.9em;">2020</span>
-- **Best Oral Presentation Award of Hong Kong Computer Vision Workshop**      <span style="float:right; color:gray; font-size:0.9em;">2019</span>
-- [**Hong Kong Ph.D. Fellowship**](https://cerg1.ugc.edu.hk/hkpfs/index.html) <span style="float:right; color:gray; font-size:0.9em;">2016</span>
-- **Top 10 Outstanding Students at SCUT** (Ranked first; highest award at SCUT) <span style="float:right; color:gray; font-size:0.9em;">2016</span>
-- **Google Excellence Scholarship** (One of 58 winners in China) <span style="float:right; color:gray; font-size:0.9em;">2015</span>
-- **Tencent Outstanding Scholarship** (The only undergraduate winner at SCUT) <span style="float:right; color:gray; font-size:0.9em;">2015</span>
-- **National Scholarship** (Highest nationwide scholarship for undergraduate students in China) <span style="float:right; color:gray; font-size:0.9em;">2013</span>
+- [**World’s Top 2% Scientists by Stanford University**](https://xw-hu.github.io/_pages/Top2.pdf) <span style="float:right; color:gray; font-size:0.9em;">2022-2026</span>                    
+- [**Achieved Excellence in the Hong Kong Young Scientist Award**](https://xw-hu.github.io/_pages/2021YSA.png) <span style="float:right; color:gray; font-size:0.9em;">2021</span>                             
+- **CVPR Doctoral Consortium Award** (31 awardees globally) <span style="float:right; color:gray; font-size:0.9em;">2020</span>                         
+- **Best Oral Presentation Award of Hong Kong Computer Vision Workshop**      <span style="float:right; color:gray; font-size:0.9em;">2019</span>                          
+- [**Hong Kong Ph.D. Fellowship**](https://cerg1.ugc.edu.hk/hkpfs/index.html) <span style="float:right; color:gray; font-size:0.9em;">2016</span>                         
+- **Top 10 Outstanding Students at SCUT** (Ranked first; highest award at SCUT) <span style="float:right; color:gray; font-size:0.9em;">2016</span>                        
+- **Google Excellence Scholarship** (One of 58 winners in China) <span style="float:right; color:gray; font-size:0.9em;">2015</span>                     
+- **Tencent Outstanding Scholarship** (The only undergraduate winner at SCUT) <span style="float:right; color:gray; font-size:0.9em;">2015</span>                       
+- **National Scholarship** (Highest nationwide scholarship for undergraduate students in China) <span style="float:right; color:gray; font-size:0.9em;">2013</span>                          
 
 <!-- - **Outstanding Young Talents Program of China** <span style="float:right; color:gray; font-size:0.9em;">2023</span>  -->
 

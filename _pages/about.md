@@ -34,8 +34,9 @@ We are recruiting self-motivated **Postdocs, Ph.D. and Master's students, Resear
 
 我们正在招募**博士后、博士生、硕士生、科研助理和实习生**，研究方向包括视觉感知与复原、多模态理解与可控生成、持续适应与自进化智能体。欢迎热爱科研、具备自我驱动能力的同学将简历和成绩单发送至 [huxiaowei@scut.edu.cn](mailto:huxiaowei@scut.edu.cn)。也欢迎有意参与科研的华工在校生联系交流。
 
-## News
+## News               
 
+[11/2026] My publications have received over 10,000 citations on Google Scholar. Thanks to all my collaborators!                          
 [09/2026] Included in the [World’s Top 2% Scientists list by Stanford University](https://topresearcherslist.com/Home/Profile/845511) for 2022-2026.                       
 [09/2026] One paper accepted to NeurIPS 2026: MedZERO, on self-evolving medical reasoning agents. Congrats to Xilin!                        
 [03/2026] Unveiling Deep Shadows, our shadow survey and benchmark, published in IJCV. [[Report](https://blog.csdn.net/moxibingdao/article/details/141980315)]               
